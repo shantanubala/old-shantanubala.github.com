@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: technology | Shantanu Bala]]></title>
+  <link href="http://shan.tanu.me/blog/categories/technology/atom.xml" rel="self"/>
+  <link href="http://shan.tanu.me/"/>
+  <updated>2013-04-07T09:42:35+12:00</updated>
+  <id>http://shan.tanu.me/</id>
+  <author>
+    <name><![CDATA[Shantanu Bala]]></name>
+    <email><![CDATA[sh@tanu.me]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Facebook Phone]]></title>
+    <link href="http://shan.tanu.me/blog/2013/04/05/facebook-phone/"/>
+    <updated>2013-04-05T09:02:00+13:00</updated>
+    <id>http://shan.tanu.me/blog/2013/04/05/facebook-phone</id>
+    <content type="html"><![CDATA[<p>One of the most exciting things about Facebook Home is that Facebook is
+releasing a phone in partnership with HTC.</p>
+
+<p>Although I don’t personally use a smart phone, it is fascinating to think about
+the change this could bring.</p>
+
+<p>SMS used to be a big deal before the iPhone. It’s only very recently that
+social networking has taken over communication, although SMS is still used for
+communication that needs to be instant.</p>
+
+<p>The key question for the future: how much will the lines between phone calls,
+SMS, and Facebook messaging blur? How long will it take before Facebook
+establishes itself as an identity on the same level as a phone number?</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://shan.tanu.me
+title: Shantanu Bala
+subtitle: I write about science and self-discipline. Cognition is fascinating.
+author: Shantanu Bala
 simple_search: http://google.com/search
 description:
 
@@ -19,7 +19,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: sh@tanu.me
 
 # ----------------------- #
 #    Jekyll & Plugins     #

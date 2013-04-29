@@ -4,7 +4,7 @@
   <title><![CDATA[Shantanu Bala]]></title>
   <link href="http://shan.tanu.me/atom.xml" rel="self"/>
   <link href="http://shan.tanu.me/"/>
-  <updated>2013-04-29T20:39:30+12:00</updated>
+  <updated>2013-04-29T20:45:59+12:00</updated>
   <id>http://shan.tanu.me/</id>
   <author>
     <name><![CDATA[Shantanu Bala]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Salman Rushdie]]></title>
+    <link href="http://shan.tanu.me/blog/2013/04/29/salman-rushdie/"/>
+    <updated>2013-04-29T20:41:00+12:00</updated>
+    <id>http://shan.tanu.me/blog/2013/04/29/salman-rushdie</id>
+    <content type="html"><![CDATA[<p>Salman Rushdie is an amazing author. His books produce magic in ways that I
+can&#8217;t explain in a blog post.</p>
+
+<p>I particularly enjoyed this talk:</p>
+
+<iframe width="420" height="315"
+src="http://shan.tanu.me//www.youtube-nocookie.com/embed/owerxb8rSPo" frameborder="0"
+allowfullscreen></iframe>
+
+
+<p>And I particularly enjoy this quote:</p>
+
+<blockquote><p>Who what am I? My answer: I am the sum total of everything that went before
+me, of all I have been seen done, of everything done-to-me. I am everyone
+everything whose being-in-the-world affected was affected by mine. I am
+anything that happens after I&#8217;ve gone which would not have happened if I had
+not come. Nor am I particularly exceptional in this matter; each &#8220;I,&#8221; every
+one of the now-six-hundred-million-plus of us, contains a similar multitude.
+I repeat for the last time: to understand me, you&#8217;ll have to swallow a world.</p></blockquote>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Problems in Education]]></title>

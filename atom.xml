@@ -4,7 +4,7 @@
   <title><![CDATA[Shantanu Bala]]></title>
   <link href="http://shan.tanu.me/atom.xml" rel="self"/>
   <link href="http://shan.tanu.me/"/>
-  <updated>2013-04-29T20:47:15+12:00</updated>
+  <updated>2013-05-01T21:05:15+12:00</updated>
   <id>http://shan.tanu.me/</id>
   <author>
     <name><![CDATA[Shantanu Bala]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Books I'm Reading]]></title>
+    <link href="http://shan.tanu.me/blog/2013/05/01/books-im-reading/"/>
+    <updated>2013-05-01T21:00:00+12:00</updated>
+    <id>http://shan.tanu.me/blog/2013/05/01/books-im-reading</id>
+    <content type="html"><![CDATA[<p>Here are some books that I&#8217;m reading right now, and they&#8217;re all fantastic.</p>
+
+<ul>
+<li><em>Dune</em> by Frank Herbert - this is a science fiction book involving
+intergalactic politics and complicated plots</li>
+<li><em>Thinking Fast and Slow</em> by Daniel Kahneman - this is a nonfiction book
+written by a Nobel Prize winner in economics about how we make sense of
+information and form conclusions</li>
+<li><em>Titan</em> by Ron Chernow - this is a biography of John D. Rockefeller, Sr. that
+is unfortunately dry at times, but has some great stories</li>
+</ul>
+
+
+<p>I&#8217;m trying to get in the habit of reviewing books, so this is my way of holding
+myself accountable: I&#8217;ll post reviews by the end of May.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Salman Rushdie]]></title>

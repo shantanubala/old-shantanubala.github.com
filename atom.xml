@@ -4,7 +4,7 @@
   <title><![CDATA[Shantanu Bala]]></title>
   <link href="http://shan.tanu.me/atom.xml" rel="self"/>
   <link href="http://shan.tanu.me/"/>
-  <updated>2013-05-01T21:05:15+12:00</updated>
+  <updated>2013-05-02T12:00:44+12:00</updated>
   <id>http://shan.tanu.me/</id>
   <author>
     <name><![CDATA[Shantanu Bala]]></name>
@@ -12,6 +12,59 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Practicing Memorizing]]></title>
+    <link href="http://shan.tanu.me/blog/2013/05/02/practicing-memorizing/"/>
+    <updated>2013-05-02T11:48:00+12:00</updated>
+    <id>http://shan.tanu.me/blog/2013/05/02/practicing-memorizing</id>
+    <content type="html"><![CDATA[<p>I&#8217;m working on my ability to remember information. Instead of using memory
+&#8220;tricks&#8221; like the <a href="http://en.wikipedia.org/wiki/Method_of_loci">method of loci</a>
+or <a href="http://en.wikipedia.org/wiki/Chunking_%28psychology%29">chunking</a>, I&#8217;m
+working on simply using a &#8220;brute force&#8221; approach to storing information in
+long term memory using flash cards.</p>
+
+<p>Although this isn&#8217;t the most efficient way to remember information, it&#8217;s the
+best way to remember information <em>unintentionally</em>.</p>
+
+<p>The problem with the method of loci and chunking is simple: those techniques
+only provide you with access to information within the context of the
+technique. The method of loci makes memorizing information very easy, but you
+need to focus on visualizing a spatial location to access your memories.
+Chunking groups small pieces of information into larger parts, but what if you
+need an individual piece at a random time?</p>
+
+<p>The problem with a lot of memory techniques is that they don&#8217;t address the main
+issue with memory: when is it useful to know the information? Chunking and the
+method of loci are useful for memorizing a speech or for situations when you
+know in advance that you will need a piece of information.</p>
+
+<p>What if I need information, but I can&#8217;t predict when or how that need will
+arise?</p>
+
+<p>The best way, in that situation, is to create as many associations with
+related things as possible. As a result, I&#8217;m giving a few different flash card
+tools a try. With these tools, I&#8217;m attempting to memorize maps of the world,
+vocabulary words, historical events, and animal species. To make the process as
+effective as possible, I&#8217;m working on creating a set of images from Flickr
+corresponding to each of the words, and the flash cards will have multiple
+&#8220;definitions&#8221; that can point to a single word.</p>
+
+<p>So far, I&#8217;ve enjoyed using the following tools:</p>
+
+<ul>
+<li><a href="http://ankisrs.net/">Anki</a> - a downloadable tool that tracks the intervals
+between correct and incorrect recall to maximize the probability of
+successfully storing a flash card in long term memory</li>
+<li><a href="http://quizlet.com/">Quizlet</a> - a web-based social tool with thousands of
+existing sets of flash cards that are ripe for memorizing and learning</li>
+<li><a href="http://www.memrise.com/">Memrise</a> - a newer and sleeker web-based tool with
+fewer flash cards available to study, but incorporates gamification and
+tracking of accuracy to maximize recall</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Books I'm Reading]]></title>
@@ -553,55 +606,6 @@ you through actions. It is your choice to walk away from a spinning top.</p>
 <p>Aside from the way the discussion is framed, the article also fails to point out a simple fact: <a href="http://en.wikipedia.org/wiki/Neuroplasticity">neuroplasticity</a>. When you find out that Republicans have different brain chemsitry than Democrats, your assumption shouldn&#8217;t automatically be that they were <em>born that way</em>. Our brain &#8220;rewires&#8221; itself according to the stimuli it receives. That&#8217;s what makes the brain powerful from the start.</p>
 
 <p>The discussion starts and ends with one sentence: correlation is not causation.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[1Q84, or the Parallel Universe of Fiction]]></title>
-    <link href="http://shan.tanu.me/blog/2012/11/18/1q84-or-the-parallel-universe-of-fiction/"/>
-    <updated>2012-11-18T00:00:00+13:00</updated>
-    <id>http://shan.tanu.me/blog/2012/11/18/1q84-or-the-parallel-universe-of-fiction</id>
-    <content type="html"><![CDATA[<p>I first became cursed with a mild obsession with Haruki Murakami after reading <em>Kafka on the Shore</em>, a novel that slowly and progressively redefined reality within the boundaries of its plot. I&#8217;m not new to magical realism, and I consider <em>Midnight&#8217;s Children</em> and <em>One Hundred Years of Solitude</em> to be among my favorite books, but my appreciation for Murakami&#8217;s novels stems from an aspect of his writing that differs slightly from Rushdie or Marquez. With <em>Kafka on the Shore</em>, I spent a majority of my time getting through the first half of the book, and afterward, it flowed like water. This pattern continued on <em>Hard-Boiled Wonderland and the End of the World</em>, and also <em>1Q84</em>. After taking a brief second look at the texts, the answer is obvious: Murakami spares no details, and describes images to the brink of banality. He doesn&#8217;t necessarily do this to create a clearer or more explicit description in his stories, because many of the details are forgettable. He writes lengthy descriptions of his scenes to make magic seem surprisingly normal.</p>
-
-<p>If you haven&#8217;t read much of Murakami&#8217;s work, I would recommend reading <em>Town of Cats</em>, which is an excerpt from <em>1Q84</em> that <a href="http://www.newyorker.com/fiction/features/2011/09/05/110905fi_fiction_murakami?currentPage=all">was published in The New Yorker</a> in 2011. Just the excerpt itself contains a story within a story. <em>1Q84</em> follows events surrounding the lives of two people, Tengo and Aomame. Tengo is a writer, and Aomame is a fitness instructor who also assassinates abusive males in her free time (this is one example of a detail that is mentioned so many times that it feels ordinary by the end of the book). The book constructs a new reality with a lot of self-referential symbolism, beginning with side characters as mundane as a taxi driver.</p>
-
-<blockquote><p>&#8220;And also,&#8221; the driver said, facing the mirror, &#8220;please remember: things are not what they seem.&#8221;</p>
-
-<p><em>Things are not what they seem</em>, Aomame repeated mentally. &#8220;What do you mean by that?&#8221; she asked with knitted brows.</p>
-
-<p>The driver chose his words carefully: &#8220;It&#8217;s just that you&#8217;re about to do something <em>out of the ordinary</em>. Am I right? People do not ordinarily climb down the emergency stairs of the Metropolitan Expressway in the middle of the day &#8211; especially women.&#8221;</p>
-
-<p>&#8220;I suppose you&#8217;re right.&#8221;</p>
-
-<p>&#8220;Right. And after you <em>do</em> something like that, the everyday <em>look</em> of things might seem to change a little. Things may look <em>different</em> to you than they did before. I&#8217;ve had that experience myself. But don&#8217;t let appearances fool you. There&#8217;s always only one reality.&#8221;</p></blockquote>
-
-<p>Note that the emphasis on the words is <em>not</em> mine.</p>
-
-<p>This is followed later in the book by:</p>
-
-<blockquote><p><em>I&#8217;m not afraid to die</em>, Aomame reassured herself. <em>What I&#8217;m afraid of is having reality get the better of me, of having reality leave me behind</em>.</p></blockquote>
-
-<p>Another example, involving Tengo sitting in a playground, is just as interesting:</p>
-
-<blockquote><p>He could find nothing about it that seemed odd or unusual &#8211; no Queen of Hearts, no walrus, no Mad Hatter. There was nothing in his surroundings but an empty sandbox and swings, a mercury-vapor lamp emitting its sterile light, the spreading branches of a zalkova tree, a locked public toilet, a new six-story condo (only four units of which had lighted windows), a ward notice board, a red parked old-model green Volkswagen Golf, telephone poles and electric lines, and primary-color neon signs in the distance. The usual city noise, the usual lights.</p></blockquote>
-
-<p>As you examine the constructed reality of the novel, the characters are doing the same as well, and they do so with reference to Chekhov.</p>
-
-<blockquote><p>&#8220;According to Chekhov,&#8221; Tamaru said, rising from his chair, &#8220;once a gun appears in a story, it has to be fired.&#8221;</p>
-
-<p>&#8220;Meaning what?&#8221;</p>
-
-<p>Tamaru stood facing Aomame directly. He was only an inch or two taller than she was. &#8220;Meaning, don&#8217;t bring unnecessary props into a story. If a pistol appears, it has to be fired at some point. Chekhov liked to write stories that did away with all useless ornamentation.&#8221;</p>
-
-<p>Aomame straightened the sleeves of her dress and slung her bag over her shoulder. &#8220;And that worries you &#8211; if a pistol comes on the scene, it&#8217;s shure to be fired at some point.&#8221;</p>
-
-<p>&#8220;In Chekhov&#8217;s view, yes.&#8221;</p></blockquote>
-
-<p>The reference to the Russian writer resurfaces later:</p>
-
-<blockquote><p>There were too many questions. It was probably Chekhov who said that the novelist is not someone who answers questions but someone who asks them.</p></blockquote>
-
-<p>Murakami is telling you to look for questions &#8211; he wants you to figure out how art reframes your perception. 1Q84 asks, and almost begs, &#8220;What impact does fiction have on the <em>real world</em>?&#8221;</p>
 ]]></content>
   </entry>
   

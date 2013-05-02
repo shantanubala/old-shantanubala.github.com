@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: memory | Shantanu Bala]]></title>
+  <link href="http://shan.tanu.me/blog/categories/memory/atom.xml" rel="self"/>
+  <link href="http://shan.tanu.me/"/>
+  <updated>2013-05-02T12:00:44+12:00</updated>
+  <id>http://shan.tanu.me/</id>
+  <author>
+    <name><![CDATA[Shantanu Bala]]></name>
+    <email><![CDATA[sh@tanu.me]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Practicing Memorizing]]></title>
+    <link href="http://shan.tanu.me/blog/2013/05/02/practicing-memorizing/"/>
+    <updated>2013-05-02T11:48:00+12:00</updated>
+    <id>http://shan.tanu.me/blog/2013/05/02/practicing-memorizing</id>
+    <content type="html"><![CDATA[<p>I'm working on my ability to remember information. Instead of using memory
+"tricks" like the <a href="http://en.wikipedia.org/wiki/Method_of_loci">method of loci</a>
+or <a href="http://en.wikipedia.org/wiki/Chunking_%28psychology%29">chunking</a>, I'm
+working on simply using a "brute force" approach to storing information in
+long term memory using flash cards.</p>
+
+<p>Although this isn't the most efficient way to remember information, it's the
+best way to remember information <em>unintentionally</em>.</p>
+
+<p>The problem with the method of loci and chunking is simple: those techniques
+only provide you with access to information within the context of the
+technique. The method of loci makes memorizing information very easy, but you
+need to focus on visualizing a spatial location to access your memories.
+Chunking groups small pieces of information into larger parts, but what if you
+need an individual piece at a random time?</p>
+
+<p>The problem with a lot of memory techniques is that they don't address the main
+issue with memory: when is it useful to know the information? Chunking and the
+method of loci are useful for memorizing a speech or for situations when you
+know in advance that you will need a piece of information.</p>
+
+<p>What if I need information, but I can't predict when or how that need will
+arise?</p>
+
+<p>The best way, in that situation, is to create as many associations with
+related things as possible. As a result, I'm giving a few different flash card
+tools a try. With these tools, I'm attempting to memorize maps of the world,
+vocabulary words, historical events, and animal species. To make the process as
+effective as possible, I'm working on creating a set of images from Flickr
+corresponding to each of the words, and the flash cards will have multiple
+"definitions" that can point to a single word.</p>
+
+<p>So far, I've enjoyed using the following tools:</p>
+
+<ul>
+<li><a href="http://ankisrs.net/">Anki</a> - a downloadable tool that tracks the intervals
+between correct and incorrect recall to maximize the probability of
+successfully storing a flash card in long term memory</li>
+<li><a href="http://quizlet.com/">Quizlet</a> - a web-based social tool with thousands of
+existing sets of flash cards that are ripe for memorizing and learning</li>
+<li><a href="http://www.memrise.com/">Memrise</a> - a newer and sleeker web-based tool with
+fewer flash cards available to study, but incorporates gamification and
+tracking of accuracy to maximize recall</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

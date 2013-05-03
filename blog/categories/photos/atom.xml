@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: photos | Shantanu Bala]]></title>
+  <link href="http://shan.tanu.me/blog/categories/photos/atom.xml" rel="self"/>
+  <link href="http://shan.tanu.me/"/>
+  <updated>2013-05-03T20:50:55+12:00</updated>
+  <id>http://shan.tanu.me/</id>
+  <author>
+    <name><![CDATA[Shantanu Bala]]></name>
+    <email><![CDATA[sh@tanu.me]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[A Spring on the Tongariro Crossing]]></title>
+    <link href="http://shan.tanu.me/blog/2013/05/03/a-spring-on-the-tongariro-crossing/"/>
+    <updated>2013-05-03T20:42:00+12:00</updated>
+    <id>http://shan.tanu.me/blog/2013/05/03/a-spring-on-the-tongariro-crossing</id>
+    <content type="html"><![CDATA[<p><img src="/uploads/tongariro.jpg" alt="A Spring on the Tongariro Crossing" /></p>
+
+<p>The above photograph was taken at the Tongariro Alpine Crossing in New Zealand,
+and it's a picture of a spring near the summit.</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: books | Shantanu Bala]]></title>
   <link href="http://shan.tanu.me/blog/categories/books/atom.xml" rel="self"/>
   <link href="http://shan.tanu.me/"/>
-  <updated>2013-05-04T23:12:44+12:00</updated>
+  <updated>2013-05-05T21:11:16+12:00</updated>
   <id>http://shan.tanu.me/</id>
   <author>
     <name><![CDATA[Shantanu Bala]]></name>
@@ -12,6 +12,55 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Personal MBA]]></title>
+    <link href="http://shan.tanu.me/blog/2013/05/05/the-personal-mba/"/>
+    <updated>2013-05-05T21:00:00+12:00</updated>
+    <id>http://shan.tanu.me/blog/2013/05/05/the-personal-mba</id>
+    <content type="html"><![CDATA[<p><a href="http://personalmba.com/">The Personal MBA</a> by Josh Kaufman is probably one of
+the best business books I've read. I usually don't enjoy reading business
+books, but Kaufman does an excellent job of being precise and concise in his
+explanations of terminology and strategy.</p>
+
+<p>In short, a business is a repeatable process that:</p>
+
+<blockquote><ol>
+<li>creates or provides something of value that</li>
+<li>other people want or need</li>
+<li>at a price they’re willing to pay, in a way that</li>
+<li>satisfies the purchaser’s needs and expectations and</li>
+<li>provides the business sufficient revenue to make it worthwhile for the owners to continue operation.</li>
+</ol>
+</blockquote>
+
+<p>As Kaufman says, everything else is a hobby.</p>
+
+<p>Although <a href="http://sivers.org/book/PersonalMBA">Derek Sivers' review</a> of the book
+is a very good summary, the book itself is a must-read for anyone who wants to
+start a business.</p>
+
+<p>A few key takeaways:</p>
+
+<ul>
+<li>Test everything. Any assumption that is untested should be questioned unless
+there is external evidence (e.g. science) that validates the assumption.</li>
+<li>Business is all about creating value and extracting a portion of the value
+that is created.</li>
+<li>There are two things your business does: things that provide value and waste.</li>
+<li>We are inherently biased towards the things we create. External validation is
+crucial.</li>
+<li>Don't delay a launch in search of perfection, but iterate towards it over
+time.</li>
+<li>Measure the lifetime value of a customer and the cost of acquiring a customer
+through different channels. Once these variables are measured, and the cost
+of acquiring a customer is less than the lifetime value, profits will be easy
+to increase.</li>
+<li>Test prices. Higher prices are usually not as bad as you may think.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[How to Actually Change Your Mind]]></title>
@@ -144,39 +193,6 @@ hour of the tiger.</p></blockquote>
 
 <p>I still feel like I haven't encapsulated the essence of it all. I'll try again
 tomorrow...</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Moonwalking with Einstein]]></title>
-    <link href="http://shan.tanu.me/blog/2013/04/08/moonwalking-with-einstein/"/>
-    <updated>2013-04-08T10:53:00+12:00</updated>
-    <id>http://shan.tanu.me/blog/2013/04/08/moonwalking-with-einstein</id>
-    <content type="html"><![CDATA[<p><em>Moonwalking with Einstein</em> by Joshua Foer is an excellent book. Although you
-can watch his TED talk to get a quick summary of the book's main ideas, I would
-highly recommend reading the book.</p>
-
-<iframe width="560" height="315" src="http://shan.tanu.me//www.youtube.com/embed/U6PoUg7jXsA"
-frameborder="0" allowfullscreen></iframe>
-
-
-<p>The book details his journey from being an ordinary journalist to a memory
-champion - he went from having average memory to being able to memorize
-thousand-digit numbers with ease. The most startling part of the entire book:
-anyone can perform the same tricks with an average memory.</p>
-
-<p>The memory techniques definitely seem like <em>tricks</em>, but they are very
-effective, and date back to Cicero's speeches in the Roman Senate.</p>
-
-<p>Although the specific techniques, like using spatial memory to remember
-different details, are interesting, there is another profound aspect to the
-book that cannot be overstated: simply because something appears to be
-extraordinary does not mean you have to be extraordinary to do it. At first
-glance, the ability to memorize thousands of random digits seems like it would
-require <em>genius</em>, when it truly just requires focus and practice.</p>
-
-<p>If there is one important lesson to gain from the book, it is that focus and
-deliberate practice can produce seemingly superhuman results.</p>
 ]]></content>
   </entry>
   

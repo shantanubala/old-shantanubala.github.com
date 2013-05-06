@@ -4,7 +4,7 @@
   <title><![CDATA[Shantanu Bala]]></title>
   <link href="http://shan.tanu.me/atom.xml" rel="self"/>
   <link href="http://shan.tanu.me/"/>
-  <updated>2013-05-05T21:11:16+12:00</updated>
+  <updated>2013-05-06T23:14:59+12:00</updated>
   <id>http://shan.tanu.me/</id>
   <author>
     <name><![CDATA[Shantanu Bala]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Coursera Machine Learning]]></title>
+    <link href="http://shan.tanu.me/blog/2013/05/06/coursera-machine-learning/"/>
+    <updated>2013-05-06T23:06:00+12:00</updated>
+    <id>http://shan.tanu.me/blog/2013/05/06/coursera-machine-learning</id>
+    <content type="html"><![CDATA[<p>I&#8217;m two weeks into the <a href="https://www.coursera.org/course/ml">Stanford Machine Learning course</a>
+taught by Andrew Ng through Coursera.</p>
+
+<p>The class is excellent, and I&#8217;m having a great time going through the material.
+Coursera&#8217;s platform not only makes it really easy to watch the lectures, but
+the material in the course is taught really well.</p>
+
+<p>Overall, the experience has been overwhelmingly positive.</p>
+
+<p>There are two types of assignments in the class: lecture review questions and
+programming exercises. The lecture review questions are multiple choice
+questions you complete online, and the programming exercises are
+automatically-graded code exercises that focus on Octave.</p>
+
+<p>So far, the material has been relatively simple, and the course has only
+covered a brief introduction to the topic of Machine Learning as well as linear
+regression with a single or multiple variables. The Octave programming language
+has also been introduced, but the course is still progressing quite well.</p>
+
+<p>The high quality of the course and the amazing price tag (free!) seem to be
+signalling pretty big changes in education coming soon.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Personal MBA]]></title>
@@ -606,50 +635,6 @@ simple graphics that keep me motivated.</p>
 <p>Sometimes, really simple general purpose tools can be really effective with the
 right customizations. I&#8217;d recommend taking a look at the &#8220;Forms&#8221; feature of
 <a href="https://drive.google.com/">Google Drive</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Using Rhythmic Patterns as an Input Method]]></title>
-    <link href="http://shan.tanu.me/blog/2013/03/02/best-paper-using-rhythmic-patterns-as-an-input-method/"/>
-    <updated>2013-03-02T00:00:00+13:00</updated>
-    <id>http://shan.tanu.me/blog/2013/03/02/best-paper-using-rhythmic-patterns-as-an-input-method</id>
-    <content type="html"><![CDATA[<p>Emilien Ghomi from the Université Paris-Sud received a <em>best paper</em> award at
-the 2012 ACM CHI (Human-Computer Interaction) conference last year for a paper
-describing the effectiveness of <a href="http://scholar.google.com/scholar?as_q=&amp;num=10&amp;btnG=Search+Scholar&amp;as_epq=Using+Rhythmic+Patterns+as+an+Input+Method&amp;as_oq=&amp;as_eq=&amp;as_occt=any&amp;as_sauthors=Ghomi">using rhythmic patterns as an input method</a>.</p>
-
-<p>The motiation for the research was simple: rhythm is a natural part of life.
-Recognizing and reproducing rhythms is considered a fundamental human ability,
-by psychologists, and it could prove to be an effective input method in a
-computer interface. Games are an excellent example of using rhythm as input,
-especially when the games are music-related (e.g. Guitar Hero). Physiological
-psychologists have determined that humans have an innate sense of rhythm, and
-in Human-Computer Interaction, existing interfaces use timing to distinguish
-between different types of user behaviors (e.g. a double click on a mouse).</p>
-
-<p>The primary advantage of rhythmic input involve its simplicity: unlike
-gestures, rhythmic input requires very little space and can be detected very
-accurately.</p>
-
-<p>The researchers conducted two experiments, the first of which involved 12
-participants (5 of whom never had any experience playing music) who were
-instructed to repeat rhythmic patterns on the touchpad of a 13-inch MacBook
-that were displayed to them using a static graphic, visual animation, and audio
-representation. Additionally, participants were given different types of
-feedback to facilitate learning. The overall success rate was 64.3%, but the
-researchers note that the recognizer used in the experiment was very strict. In
-practice, a much higher accuracy rate could be obtained by reducing the
-vocabulary of rhythms and increasing the margin of error for allowed input. A
-second experiment testing the recall rate of rhythms associated with
-different commands resulted in an initial recall rate of 74%, but an improved
-recall rate of 93% in a later test.</p>
-
-<p>The most interesting applications of rhythmic input seem to be in mobile
-devices, like smartphones and tablets with built-in touchscreens. So far,
-gestures have been the primary input method (swipe, pinch, etc.), but rhythms
-may be an effective method of user input in situations where a person is not
-looking directly at the screen or the touchscreen itself is obscured (the
-rhythms may be captured using an accelerometer).</p>
 ]]></content>
   </entry>
   

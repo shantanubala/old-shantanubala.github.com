@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: learning | Shantanu Bala]]></title>
+  <link href="http://shan.tanu.me/blog/categories/learning/atom.xml" rel="self"/>
+  <link href="http://shan.tanu.me/"/>
+  <updated>2013-05-06T23:14:59+12:00</updated>
+  <id>http://shan.tanu.me/</id>
+  <author>
+    <name><![CDATA[Shantanu Bala]]></name>
+    <email><![CDATA[sh@tanu.me]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Coursera Machine Learning]]></title>
+    <link href="http://shan.tanu.me/blog/2013/05/06/coursera-machine-learning/"/>
+    <updated>2013-05-06T23:06:00+12:00</updated>
+    <id>http://shan.tanu.me/blog/2013/05/06/coursera-machine-learning</id>
+    <content type="html"><![CDATA[<p>I'm two weeks into the <a href="https://www.coursera.org/course/ml">Stanford Machine Learning course</a>
+taught by Andrew Ng through Coursera.</p>
+
+<p>The class is excellent, and I'm having a great time going through the material.
+Coursera's platform not only makes it really easy to watch the lectures, but
+the material in the course is taught really well.</p>
+
+<p>Overall, the experience has been overwhelmingly positive.</p>
+
+<p>There are two types of assignments in the class: lecture review questions and
+programming exercises. The lecture review questions are multiple choice
+questions you complete online, and the programming exercises are
+automatically-graded code exercises that focus on Octave.</p>
+
+<p>So far, the material has been relatively simple, and the course has only
+covered a brief introduction to the topic of Machine Learning as well as linear
+regression with a single or multiple variables. The Octave programming language
+has also been introduced, but the course is still progressing quite well.</p>
+
+<p>The high quality of the course and the amazing price tag (free!) seem to be
+signalling pretty big changes in education coming soon.</p>
+]]></content>
+  </entry>
+  
+</feed>

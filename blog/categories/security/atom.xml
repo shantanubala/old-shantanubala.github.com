@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: security | Shantanu Bala]]></title>
+  <link href="http://shan.tanu.me/blog/categories/security/atom.xml" rel="self"/>
+  <link href="http://shan.tanu.me/"/>
+  <updated>2013-05-07T20:52:59+12:00</updated>
+  <id>http://shan.tanu.me/</id>
+  <author>
+    <name><![CDATA[Shantanu Bala]]></name>
+    <email><![CDATA[sh@tanu.me]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Security and Privacy]]></title>
+    <link href="http://shan.tanu.me/blog/2013/05/07/security-and-privacy/"/>
+    <updated>2013-05-07T20:11:00+12:00</updated>
+    <id>http://shan.tanu.me/blog/2013/05/07/security-and-privacy</id>
+    <content type="html"><![CDATA[<p><a href="http://www.schneier.com/">Bruce Schneier's Blog</a> is an ecellent web site to
+read, especially if you are interested in issues related to security. Although
+a lot of his writing can be very technical, there are a few of his essays that
+make complex ideas easier to understand. One of my favorite posts from his blog
+is <a href="http://www.schneier.com/blog/archives/2008/01/security_vs_pri.html">Security vs. Privacy</a>, an
+analysis of the false dilemma that is often constructed between national
+security and individual privacy.</p>
+
+<p>Not all security measures need to violate privacy, and not all violations of
+privacy lead to increased levels of security. An attempt to frame security and
+privacy as two opposing forces is misinformed at its best and pernicious at its
+worst.</p>
+
+<p>To put it a step further, invasions of privacy are often attempts to profile
+people. By establishing patterns that describe a <em>typical terrorist</em>, we can
+narrow our searches and focus on people who actually exhibit behavior that
+resembles known terrorists. The standard argument is, "if you have nothing to
+hide, why should you care?"</p>
+
+<p>Although privacy is important for its own sake, using personal information like
+Internet usage or private emails to find suspected terrorists is <em>not a very
+good idea</em>. A person with the desire to execute a complex terror plot will
+probably not send vital information over an unencrypted channel. Unless the
+NSA can outsmart <a href="http://www.gnupg.org/">GPG</a> and <a href="http://en.wikipedia.org/wiki/Transport_Layer_Security">TLS</a>,
+the invasions of privacy will only foil terror plots conducted by
+unsophisticated groups. The benefits associated with sacrifices of privacy
+would be marginal at best. The end result will be an ocean of information
+available to government agencies about
+ordinary people without the knowledge to protect themselves.</p>
+
+<p>This is the same reason why pilots have to go through airport security. Even
+though a pilot can crash the plane, the security concern is not about the
+potential damage a pilot can cause. The security concern is about whether the
+pilot <em>is actually a pilot</em>. When designing a security system, the security of
+the whole system is only as good as the weakest link. If pilots don't have to go
+through ordinary security lines, a terrorist would only need a pilot's uniform
+and badge to go through security undetected.</p>
+
+<p>Likewise, if we use people's private information, whether it's emails or Facebook
+activity, we should be careful not to create a tiered security system. If a
+potential terrorist only needs to act normal on Facebook in order to avoid
+the government's attention, monitoring Facebook accounts will not actually
+provide more security.</p>
+
+<p>Security is always a matter of cost and benefit, but privacy is rarely an
+effective price to pay.</p>
+]]></content>
+  </entry>
+  
+</feed>

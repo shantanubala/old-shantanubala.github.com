@@ -4,7 +4,7 @@
   <title><![CDATA[Shantanu Bala]]></title>
   <link href="http://shan.tanu.me/atom.xml" rel="self"/>
   <link href="http://shan.tanu.me/"/>
-  <updated>2013-05-07T20:52:59+12:00</updated>
+  <updated>2013-05-08T20:48:13+12:00</updated>
   <id>http://shan.tanu.me/</id>
   <author>
     <name><![CDATA[Shantanu Bala]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Rabbits and Lemonade]]></title>
+    <link href="http://shan.tanu.me/blog/2013/05/08/rabbits-and-lemonade/"/>
+    <updated>2013-05-08T20:45:00+12:00</updated>
+    <id>http://shan.tanu.me/blog/2013/05/08/rabbits-and-lemonade</id>
+    <content type="html"><![CDATA[<p>No Walrus.<br/>
+No Queen of Hearts.<br/>
+Not even the Mad Hatter.</p>
+
+<p>Adventures disappeared from my mind&#8230;</p>
+
+<p>Even still, I find a question that mattered:<br/>
+Where are all of the walls in which I am confined<br/>
+And what machine shall I build to ensure that they&#8217;re shattered?</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Security and Privacy]]></title>
@@ -637,30 +654,6 @@ will fix your opponents’ arguments for them.</p>
 most horrible thing that can be constructed from its corpse.</p></blockquote>
 
 <p>Once again, the <a href="http://www.acceleratingfuture.com/steven/?p=155">Black Belt Bayesian tells it like it is</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Simple Positive Psychology]]></title>
-    <link href="http://shan.tanu.me/blog/2013/03/29/simple-positive-psychology/"/>
-    <updated>2013-03-29T22:54:00+13:00</updated>
-    <id>http://shan.tanu.me/blog/2013/03/29/simple-positive-psychology</id>
-    <content type="html"><![CDATA[<p>When I first read about the research of <a href="https://en.wikipedia.org/wiki/Martin_Seligman">Martin Seligman</a>, I was skeptical. He
-is famous for coming up with the concept of &#8220;learned helplessness,&#8221; but more
-recently has been instrumental in forming a type of psychology known as
-positive psychology. Positive psychology is all about using behavior as a way
-to produce positive changes in mood. It&#8217;s the opposite of learned helplessness:
-learned optimism.</p>
-
-<p>I listened to <a href="http://www.thersa.org/events/audio-and-past-events/2011/flourish">his speech at the RSA</a>, and
-started doing a simple daily exercise he recommends: writing down 3 good things that
-happened during the day and why they happened.</p>
-
-<p>That simple exercise has produced lower levels of depression and higher levels
-of psychological well-being in placebo-controlled studies. It&#8217;s so simple that
-it almost feels a little silly while doing it, but I recommend trying it out.
-It quickly becomes engaging, and it is really interesting to go back in time
-and smile at the things that made me happy.</p>
 ]]></content>
   </entry>
   

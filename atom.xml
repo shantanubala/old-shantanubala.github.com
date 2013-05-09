@@ -4,7 +4,7 @@
   <title><![CDATA[Shantanu Bala]]></title>
   <link href="http://shan.tanu.me/atom.xml" rel="self"/>
   <link href="http://shan.tanu.me/"/>
-  <updated>2013-05-08T20:48:13+12:00</updated>
+  <updated>2013-05-09T18:34:10+12:00</updated>
   <id>http://shan.tanu.me/</id>
   <author>
     <name><![CDATA[Shantanu Bala]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[What causes burnout?]]></title>
+    <link href="http://shan.tanu.me/blog/2013/05/09/what-causes-burnout/"/>
+    <updated>2013-05-09T18:25:00+12:00</updated>
+    <id>http://shan.tanu.me/blog/2013/05/09/what-causes-burnout</id>
+    <content type="html"><![CDATA[<p>I noticed an <a href="http://iamnotaprogrammer.com/Burnout-is-caused-by-resentment.html#comment-478842490">excellent comment on Marissa Mayer&#8217;s blog</a>
+about the nature of burnout.</p>
+
+<blockquote><p>Burnout is caused when you repeatedly make large amounts of sacrifice and or
+effort into high-risk problems that fail.  It&#8217;s the result of a negative
+prediction error in the nucleus accumbens.  You effectively condition your
+brain to associate work with failure.</p>
+
+<p>Subconsciously, then eventually, consciously, you wonder if it&#8217;s worth it.
+The best way to prevent burnout is to follow up a serious failure with doing
+small things that you know are going to work.</p></blockquote>
+
+<p>Many times, burnout is attributed to working too hard. Though this is certainly
+a cause, it is important to understand that the burnout is more likely to occur
+if the work isn&#8217;t <em>rewarded</em> in a satisfying way.</p>
+
+<p>This is the reason why people are willing to sink hundreds of hours into video
+games doing seemingly boring tasks like mining for gold. The behavior gets
+rewarded within the game <a href="https://en.wikipedia.org/wiki/Reinforcement#Schedules">according to a schedule</a>
+that optimizes for addiction. The banality of the task is offset by the
+instantaneous rewards provided by the system.</p>
+
+<p>As described in the comment, the key to avoiding burnout is not necessarily
+just to reduce workload. The key to avoiding burnout appears to be the use of
+small guaranteed successes as a way to offset the cognitive impact of large
+failures.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Rabbits and Lemonade]]></title>
@@ -638,22 +672,6 @@ for breakfast</li>
 <p>Before, I simply had a perpetual &#8220;todo&#8221; with &#8220;write a blogpost,&#8221; and I would
 find ways to procrastinate. Hopefully I can hold myself to higher
 accountability!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Disagreement Hierarchy]]></title>
-    <link href="http://shan.tanu.me/blog/2013/03/30/the-disagreement-hierarchy/"/>
-    <updated>2013-03-30T22:37:00+13:00</updated>
-    <id>http://shan.tanu.me/blog/2013/03/30/the-disagreement-hierarchy</id>
-    <content type="html"><![CDATA[<blockquote><p>If you’re interested in being on the right side of disputes, you will refute
-your opponents’ arguments. But if you’re interested in producing truth, you
-will fix your opponents’ arguments for them.</p>
-
-<p>To win, you must fight not only the creature you encounter; you must fight the
-most horrible thing that can be constructed from its corpse.</p></blockquote>
-
-<p>Once again, the <a href="http://www.acceleratingfuture.com/steven/?p=155">Black Belt Bayesian tells it like it is</a>.</p>
 ]]></content>
   </entry>
   

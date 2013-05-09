@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: psychology | Shantanu Bala]]></title>
+  <link href="http://shan.tanu.me/blog/categories/psychology/atom.xml" rel="self"/>
+  <link href="http://shan.tanu.me/"/>
+  <updated>2013-05-09T18:34:10+12:00</updated>
+  <id>http://shan.tanu.me/</id>
+  <author>
+    <name><![CDATA[Shantanu Bala]]></name>
+    <email><![CDATA[sh@tanu.me]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[What causes burnout?]]></title>
+    <link href="http://shan.tanu.me/blog/2013/05/09/what-causes-burnout/"/>
+    <updated>2013-05-09T18:25:00+12:00</updated>
+    <id>http://shan.tanu.me/blog/2013/05/09/what-causes-burnout</id>
+    <content type="html"><![CDATA[<p>I noticed an <a href="http://iamnotaprogrammer.com/Burnout-is-caused-by-resentment.html#comment-478842490">excellent comment on Marissa Mayer's blog</a>
+about the nature of burnout.</p>
+
+<blockquote><p>Burnout is caused when you repeatedly make large amounts of sacrifice and or
+effort into high-risk problems that fail.  It's the result of a negative
+prediction error in the nucleus accumbens.  You effectively condition your
+brain to associate work with failure.</p>
+
+<p>Subconsciously, then eventually, consciously, you wonder if it's worth it.
+The best way to prevent burnout is to follow up a serious failure with doing
+small things that you know are going to work.</p></blockquote>
+
+<p>Many times, burnout is attributed to working too hard. Though this is certainly
+a cause, it is important to understand that the burnout is more likely to occur
+if the work isn't <em>rewarded</em> in a satisfying way.</p>
+
+<p>This is the reason why people are willing to sink hundreds of hours into video
+games doing seemingly boring tasks like mining for gold. The behavior gets
+rewarded within the game <a href="https://en.wikipedia.org/wiki/Reinforcement#Schedules">according to a schedule</a>
+that optimizes for addiction. The banality of the task is offset by the
+instantaneous rewards provided by the system.</p>
+
+<p>As described in the comment, the key to avoiding burnout is not necessarily
+just to reduce workload. The key to avoiding burnout appears to be the use of
+small guaranteed successes as a way to offset the cognitive impact of large
+failures.</p>
+]]></content>
+  </entry>
+  
+</feed>

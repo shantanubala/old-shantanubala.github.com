@@ -4,7 +4,7 @@
   <title><![CDATA[Shantanu Bala]]></title>
   <link href="http://shan.tanu.me/atom.xml" rel="self"/>
   <link href="http://shan.tanu.me/"/>
-  <updated>2013-05-14T20:40:00+12:00</updated>
+  <updated>2013-05-15T18:48:07+12:00</updated>
   <id>http://shan.tanu.me/</id>
   <author>
     <name><![CDATA[Shantanu Bala]]></name>
@@ -12,6 +12,89 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Universe is Flat]]></title>
+    <link href="http://shan.tanu.me/blog/2013/05/15/the-universe-is-flat/"/>
+    <updated>2013-05-15T18:36:00+12:00</updated>
+    <id>http://shan.tanu.me/blog/2013/05/15/the-universe-is-flat</id>
+    <content type="html"><![CDATA[<iframe width="560" height="315"
+src="http://www.youtube-nocookie.com/embed/EjaGktVQdNg?rel=0" frameborder="0"
+allowfullscreen></iframe>
+
+
+<p>In the above video, Lawrence Krauss discusses the evidence of a universe that
+is flat. Through the Friedmann Equations, which are a derivation of General
+Relativity, one can use that evidence to extrapolate the fact that the universe
+has a net energy density of 0. A while ago, I compiled a lot of information on the topic.
+If you like learning about something with some depth, this blog post is a good follow-up to
+the video.</p>
+
+<h4>Introduction</h4>
+
+<p>The beginning of experiments at the Large Hadron Collider at CERN in Switzerland, the discovery of the cosmic microwave background radiation in 1965, experimentation on the cosmic microwave background over the past 4 decades, and the construction of numerous different telescopes have provided the once-theoretical subject of cosmology experimental and observational evidence. Theoretical formulas dating back to Einstein&#8217;s Field Equations now have quantitative measurements associated with them. The subject of cosmology has always fascinated me – there is a vast expansive universe that the human species has yet to explore, but our understanding of physics has allowed us to comprehend many of the properties and traits of the universe as a whole. This paper attempts to combine the mathematical aspects of Einstein&#8217;s Field Equations with recent data collection efforts using modern satellites and telescopes to create a deeper understanding of the properties of the universe that determine is curvature (also referred to as the local geometry of the universe).</p>
+
+<p>After the formulation of Einstein&#8217;s Field Equations and the theory of general relativity, scientists postulated that the universe as a whole may follow different local geometries based on its net energy. The Field Equations themselves only provided a mathematical basis for understanding the relationships between different properties of the universe; in order to determine the actual properties of the universe, observational evidence must be evaluated. Primarily, there is only one property of the universe that determines its curvature – its density as described by the Friedmann–Lemaître–Robertson–Walker model of the universe (a derivative of general relativity that treats the universe as a fluid). The curvature of the universe is entirely determined by the amount of matter and energy contained in the universe (“Cosmological Models”). The purpose of this paper is to answer the following question (specifically in relation to the density of the universe and the behavior of light and space depending on the universe&#8217;s density): to what extent does observational evidence support the hypothesis that the universe follows a flat Euclidean local geometry?</p>
+
+<p>In order to investigate the aforementioned question, I will utilize data collected from telescopes examining supernovae, and the cosmic microwave background radiation in conjunction with derivatives of Einstein&#8217;s theory of general relativity. In addition, I will present results of different approaches to collecting observations that indicate the local geometry of the universe. Since the density of the universe is equal the critical density of the Friedmann–Lemaître–Robertson–Walker model, the local geometry of the universe is flat and the light and space in the universe behave accordingly. Primarily, this investigation assumes that the  Friedmann–Lemaître–Robertson–Walker model, which derives from Einstein&#8217;s theory of general relativity, accurately models the properties of the universe.</p>
+
+<h4>A Flat Universe</h4>
+
+<p>The discovery of the cosmic background radiation in 1965, along with data collection and data analysis efforts spanning subsequent decades, produced not only support for the Big Bang theory as a whole, but also enabled scientists to observationally determine the geometry of the universe; in essence, the cosmic background radiation provided the observational basis for the conclusion that the universe follows a flat geometry (Tyson).</p>
+
+<p>The cosmic background, currently microwave radiation, formed closely after the beginning of the Big Bang itself. It consists of a “a ubiquitous bath of photons” formed “from a dazzling, sizzling early universe.” Since the temperature of the universe is inversely proportional to the volume of the universe, the average temperature cools as its volume increases, and heats as its volume decreases. After nearly 14 billion years, the photons formed at the origin of the universe now form microwave radiation due to the continuous expansion of space that caused the wavelength of the photons to expand to approximately 1 millimeter (the Hubble diagram depicts how the distance between two points in space increases over time). Since the amount of energy contained by photons is inversely proportional to its wavelength, the expansion of the universe causes the amount of energy carried by individual photons in the cosmic background radiation to decrease over time. Observations of the cosmic background radiation have not only indicated that the universe had a beginning, but also that the universe is continuously expanding. The molecule cyanogen (CN) is excited in the presence of microwave radiation (and excited proportionally to the amount of energy contained within the photons of the microwave radiation). Since the cosmic background radiation currently is in the microwave spectrum, the cyanogen present across galaxies will be excited by the background radiation. Since some galaxies are millions of light years farther away than other galaxies, the light emitted by the galaxies would arrive at Earth at different times, allowing an observer to see back in time. Observations of cyanogen-containing galaxies close and far away from the Milky Way indicate that the universe was smaller further back in time due to the increased excitement in cyanogen present in galaxies further away from the Earth (increased excitement indicates a smaller wavelength of microwave radiation, which results from smaller space in the universe). The afrementioned properties of the cosmic microwave background make it an excellent indicator of the properties of the universe from the time of its origin (Tyson).</p>
+
+<p>In Einstein’s Field Equations in his theory of general relativity, the energy-momentum of the universe is set equal to the curvature of space. By treating the matter in space as a fluid, and using the mathematics of fluid dynamics to construct a solution to Einstein’s Field Equations (known as the Friedmann–Lemaître–Robertson–Walker model or the Standard Model of cosmology), simple 3-dimensional geometric models can be extrapolated that describe the possible curvature of multidimensional space based on the energy density of the universe. Although the Standard Model of cosmology assumes that the universe behaves as a fluid, even though gravitational forces produce large concentrated bodies of matter (galaxies), the assumption applies on an even larger scale (“Cosmological Models”). Individual galaxies constitute a very minute portion of the matter in the universe – according to the Las Campanas Redshift Survey of approximately 20,000 galaxies, there were very small variations in the concentrations of galaxies within small (less than tens of millions of light years) apertures (Lin). Similarly, measurements of the anisotropies of the cosmic microwave background by the Cosmic Background Explorer indicate the predominant homogeneity of the universe (Greason). Although the probe detected minor inhomogeneities in isolated locations, the universe is mostly homogenous and isotropic when observed as a whole or on average. As a result, the universe conforms to the Standard Model of cosmology with very minute margins of error. Since the assumptions of the Standard Model of cosmology have been verified observationally, the equations that are part of the Standard Model must also accurately reflect the properties of the universe.</p>
+
+<p>In order to extrapolate the 3-dimensional models of the geometry of the universe using the Standard Model of cosmology, the density parameter (the ratio between the observed density and the critical density) of the Friedmann equations (the equations derived in 1922 by Alexander Friedmann to describe the expansion of space in a homogenous and isotropic model with respect to general relativity) must be calculated (“Cosmological Models”). The critical density of the universe (or the average amount of energy per unit of volume) has been approximated to lie between 4.5×1030 and 1.8×1029 grams per cubic centimeter (Elert). The variance in this calculation is caused by the variations in the calculated Hubble Parameter, which is the rate at which space in the universe expands.Since the critical density refers to the density of the universe that provides for a Euclidean geometry, the density parameter serves as a numerical description of the geometry of the universe.</p>
+
+<p>Depending on the value for the density parameter, the curvature of space can follow three different geometric patterns: curved and open, curved and closed, and flat. Each of these three local geometries carries a different implication concerning the properties of light and space in the universe. When solving the Friedmann equations, a density parameter less than 1 produces an open curved universe (otherwise known as a 3-dimensional hyperbolic geometry). In an open curved universe, the universe would continuously expand forever, and light would diverge. A density parameter less than 1 produces a closed curved universe (otherwise known as a 3-dimensional spherical geometry), which causes light to converge. In a closed universe, space would expand until it collapses into itself – a process termed a “big crunch”. With a density parameter equal to 1, the universe would be flat. In a flat universe, the universe would expand, but eventually slow down in its expansion. In addition, a flat universe allows light to travel through a vacuum in a straight line (“Cosmological Models”).</p>
+
+<p>Measurements of the cosmic microwave background provide the basis for many of the missing or unmeasured variables present in Friedmann equations that reveal the local geometry of the universe. The cosmic microwave background allows for measurements of the amount of matter and energy in the universe, as well as the rate at which the universe expands.</p>
+
+<p>By applying detailed measurements of the cosmic microwave background, the density of visible matter in the universe may be used in the Friedmann equations. According to the Wilkinson Microwave Anisotropy Probe, the density of matter in the universe is near 4.182x10-31 grams per cubic centimeter. This measured density of the universe produces a density parameter between 0.023 and 0.093. Since the range of possible density parameters was definitely less than 1 even with a 5% margin of error of the measurements of the density of the visible matter in the universe, the universe must follow a hyperbolic local geometry according to the measurements of the cosmic microwave background (i.e. the universe must follow an open curved geometry, in which it expands forever and asymptotically approaches a temperature of zero). However, upon examining the total gravitational force exerted in regions of the universe, the gravitational energy did not match the amount of observable matter in the universe. On the contrary, the gravitational energy was approximately 6 times the expected amount. This led to the hypothesis of dark matter, a form of matter that does not interact with electromagnetic radiation. The aforementioned calculation only included the visible matter present in the universe. Since dark matter contributes to the energy density of the universe, it must also be included in the Friedmann equations. After including dark matter, the observable density of the universe is equal to 2.509x10-30 (Wollack). This value, which is approximately 6 times the energy density of the universe when only ordinary matter is included, produces a density parameter between 0.14 and 0.56. Including a 5% margin of error for the measurement of the energy density, the density parameter is still below 1, indicating that the universe is open and curved.</p>
+
+<p>Although measurements of the cosmic microwave background, when applied as part of the Friedmann equations, indicate that the universe follows an open curved local geometry, direct observation of the cosmic microwave background alone indicates that the universe follows a flat Euclidean local geometry within a margin of error of 1%. Due to the nature of the cosmic microwave background, if a telescope collects observations of electromagnetic radiation dating back to when the universe was approximately 100,000 years old, light is no longer visible since the average temperature of the universe was 3,000 degrees Kelvin (the temperature at which a hydrogen atom may split into its component proton and electron) in a plasma form (a plasma is opaque in the presence of radiation). This inevitable opacity preventing direct observations of the initial event of the Big Bang still provides one benefit: it provides a reference point to measure an isosceles Euclidean triangle of known theoretical size. In a open curved universe, one side of the isosceles triangle would appear smaller due to the divergence of light in a hyperbolic curvature. In a closed curved universe, one side of the isosceles triangle would appear larger due to the convergence of light in a spherical curvature. Only a flat universe would produce a triangle appearing equal in dimension to its theoretical size. In the BOOMERanG experiment in Antarctica, a microwave radiometer was lifted above the Earth&#8217;s surface to collect data on the cosmic background, producing images of the fluctuations in temperature of the cosmic microwave background. Each of the fluctuations in the cosmic background ought to be approximately 100,000 light years in width and 14 billion light years in distance away from the earth, which can produce a Euclidean isosceles triangle. By comparing the collected data to computer-generated models of the width of the fluctuations (i.e. the length of one side of the isosceles triangle), scientists were able to observationally determine the curvature of the universe. The data most closely matched computer-generated models of a flat universe (“BOOMERanG”). Further data collection using the Wilkinson Microwave Anisotropy Probe corroborates the data collected from the BOOMERanG experiment as well (United States of America). When compared to the contradicting calculations using the Friedmann equations, the direct observations of the behavior of electromagnetic radiation in space provide greater accuracy and precision; however, the universe cannot be curved and flat simultaneously – one set of measurements must have been incorrect.</p>
+
+<p>Although the measurements of the cosmic microwave background indicate with great precision the behavior of light in the universe, the hypothesis that the universe is hyperbolic in its local geometry is further supported by measurements of the rate of expansion of the universe. Measurements of the light emitted by 10 supernovae at different distances indicate that the rate of expansion of the universe is accelerating – a characteristic only associated with a hyperbolic local geometry. In a flat universe, the rate of expansion would decelerate over time. The red light shift caused by the expansion of space indicated that the supernovae were between 10% and 15% further away from the Earth than expected if the universe&#8217;s rate of expansion was not accelerating (Riess). Further observations of 42 additional supernovae indicate very similar results: with a 99% level of confidence, the observed geometry of the universe does not account for the observed rate of expansion of the universe (Perlmutter). The total matter in the universe (including dark matter) only accounts for approximately 30% of the necessary energy required to produce a flat universe, presenting an absurd problem: if the universe is flat as observations indicated, what produced the rest of the energy required to make it flat according to the Standard Model of cosmology? With all known matter accounted for mathematically, the universe ought to be hyperbolic in its local geometry. Telescopic data indicated that the rate of the universe&#8217;s expansion continuously accelerates; but in a flat universe that conforms to the Standard Model of cosmology, the rate of the universe&#8217;s expansion would not accelerate – it would decelerate. It seemed that either the mathematically derived components of Einstein&#8217;s Field Equations and the Standard Model of cosmology, which were utilized to assert the existence of the universe with a Euclidean local geometry, were incorrect, or the repetitive collection of data concerning the cosmological red light shift and the total amount of energy in the universe were incorrect. Further processing of the data collected from the light emitted by the supernovae produced an interesting scientific hypothesis: if the additional energy required to produce a flat universe that conforms to observations of the cosmic microwave background was present within empty space itself, it would not only contribute to the energy density of the universe when solving the Friedmann equations, but it would also cause the rate at which space expands to accelerate. Coincidentally, the amount of energy required for the universe to expand 10%-15% faster than expected is equal to the amount of energy missing to produce a density parameter in the Friedmann equations of 1 (i.e. the other 70% of energy required to produce a density parameter of 1). This invisible energy that permeates empty space and accelerates the rate of expansion of space has been termed dark energy (Wollack).</p>
+
+<p>Using the cosmic microwave background alone in conjunction with the assumptions that three things (dark energy, dark matter, and ordinary matter) form the total energy of the universe, more exact figures may be extrapolated to a greater degree of precision. Measurements indicate that:</p>
+
+<ul>
+<li>the universe is flat within a 1% margin of error;</li>
+<li>dark energy contributes to 72% of the energy density of the universe;</li>
+<li>ordinary matter contributes to 4.6% of the energy density of the universe;</li>
+<li>dark matter contributes to 23% of the energy density of the universe;</li>
+<li>and seas of fast-moving neutrinos may contribute a minor portion of the energy density of the universe.</li>
+</ul>
+
+
+<h4>Conclusion</h4>
+
+<p>The observations collected of the cosmic microwave background and supernovae provide direct observational evidence to support that the universe is flat, but the true mechanisms of dark matter and dark energy are still unknown. In other words, observational evidence supports the hypothesis that the universe follows a flat local geometry, and provides a breakdown of the components of the energy density of the universe that allow it to have a flat local geometry, but does not currently provide insight into the actual properties of dark matter and dark energy. These properties are the subject of current and future investigation in physics, and serve as the primary unexplained point of the investigation into the universe&#8217;s local geometry. Although the properties of 95% of the components of the energy density of the universe are unknown, evidence – both mathematical and observational in nature – supports the hypothesis to the fullest degree possible. The properties of dark matter and dark energy are irrelevant as long as their contribution to the energy density of the universe may be accurately measured. Since the Wilkinson Microwave Anisotropy Probe has corroborated conclusions from previous experiments like BOOMERanG and the Cosmic Background Explorer while also obtaining data to a significantly greater degree of accuracy, the hypothesis is entirely supported by all current data and accepted models of the universe.</p>
+
+<p>For this investigation, data collected from the Wilkinson Microwave Anisotropy Probe, conclusions from the BOOMERanG Experiment, previous calculations of the critical density according to early measurements of the rate of expansion of the universe, observations of supernovae, and the Friedmann equations were used as evidence. Data collected from measurements of the cosmic microwave background is precise and accurate – the density parameter of the universe can be calculated within a 1% margin of error when using the latest processed data. Although the BOOMERanG experiment did not have this level of accuracy, it provides additional verification for the recent measurements collected by the Wilkinson Microwave Anisotropy Probe. Prior calculations of the critical density of the universe had very large margins of error due to imprecise measurements of the rate of expansion of the universe. The margin of error was reduced over time by furthering the precision to which the rate of expansion was measured. Observations of supernovae further reinforce the conclusion that the universe follows a flat local geometry, and the validity of the Friedmann equations as a model of the universe is supported by observations of the predominant homogeneity and isotropy of the universe.</p>
+
+<p>Although measurements of the cosmic microwave background are very accurate, there was one element of recent Wilkinson Microwave Anisotropy Probe findings that was not found in previous observations of the cosmic microwave background. The probe found large seas of fast-moving neutrinos present in the universe, and further investigation into these neutrinos may provide greater insight into the properties of the early universe. Similarly, current and future experiments in the with particle accelerators may lead to an understanding of the formation of dark matter and dark energy and the properties of those sources of energy.</p>
+
+<h4>Works Cited</h4>
+
+<ul>
+<li>&#8220;BOOMERanG.&#8221; Caltech Astronomy. Caltech. Web. 20 Jan. 2011. <a href="http://boom.caltech.edu/">http://boom.caltech.edu/</a>.</li>
+<li>&#8220;Cosmological Models.&#8221; Web. 12 Jan. 2011. <a href="http://hyperphysics.phy-astr.gsu.edu/hbase/Astro/cosmo.html">http://hyperphysics.phy-astr.gsu.edu/hbase/Astro/cosmo.html</a>.</li>
+<li>Elert, Glenn. &#8220;Density of the Universe.&#8221; Hypertextbook. Web. 12 Jan. 2011. <a href="http://hypertextbook.com/facts/2000/ChristinaCheng.shtml">http://hypertextbook.com/facts/2000/ChristinaCheng.shtml</a>.</li>
+<li>&#8220;End of the Universe.&#8221; Wikimedia Commons. Wikimedia Foundation. Web. 12 Jan. 2011. <a href="http://wikimedia.org/">http://wikimedia.org/</a>.</li>
+<li>Greason, Michael R. &#8220;LAMBDA - DMR Data Products.&#8221; LAMBDA - Legacy Archive for Microwave Background Data. National Aeronautics and Space Administration, 18 Apr. 2008. Web. 20 Jan. 2011. <a href="http://lambda.gsfc.nasa.gov/product/cobe/dmr_products.cfm">http://lambda.gsfc.nasa.gov/product/cobe/dmr_products.cfm</a>.</li>
+<li>Lin, Huan. &#8220;The Las Campanas Redshift Survey.&#8221; University of Toronto, 6 Mar. 1998. Web. 12 Jan. 2011. <a href="http://qold.astro.utoronto.ca/~lin/lcrs.html">http://qold.astro.utoronto.ca/~lin/lcrs.html</a>.</li>
+<li>Perlmutter, S. et al. &#8220;Measurements of Omega and Lambda from 42 High-Redshift Supernovae.&#8221; Astrophysics 517 (1999): 565-86. Web.</li>
+<li>Riess, Adam G., Alexei V. Filippenko, Peter Challis, et al. &#8220;Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant.&#8221; Astronomy 116 (1998): 1009-038. Web.</li>
+<li>Tyson, Neil D. &#8220;Let There Be Light.&#8221; Natural History 1 Oct. 2003. Web. <a href="http://www.haydenplanetarium.org/tyson/read/2003/10/01/let-there-be-light">http://www.haydenplanetarium.org/tyson/read/2003/10/01/let-there-be-light</a>.</li>
+<li>United States of America. National Aeronautics and Space Administration. Seven-Year Wilkinson Microwave Anisotropy Probe (WMAP1 ( Observations: Sky Maps, Systematic Errors, and Basic Results. By N. Jarosik, C. L. Bennett, J. Dunkley, et al. Print.</li>
+<li>Wollack, Edward J. &#8220;Content of the Universe.&#8221; Wilkinson Microwave Anisotropy Probe. National Aeronautics and Space Administration, 16 Apr. 2010. Web. 20 Jan. 2011. <a href="http://map.gsfc.nasa.gov/universe/uni_matter.html">http://map.gsfc.nasa.gov/universe/uni_matter.html</a>.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Ab-Soul's Outro by Kendrick Lamar]]></title>
@@ -673,42 +756,6 @@ communication that needs to be instant.</p>
 <p>The key question for the future: how much will the lines between phone calls,
 SMS, and Facebook messaging blur? How long will it take before Facebook
 establishes itself as an identity on the same level as a phone number?</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[A Tutorial on Negotiation]]></title>
-    <link href="http://shan.tanu.me/blog/2013/04/03/a-tutorial-on-negotiation/"/>
-    <updated>2013-04-03T22:17:00+13:00</updated>
-    <id>http://shan.tanu.me/blog/2013/04/03/a-tutorial-on-negotiation</id>
-    <content type="html"><![CDATA[<p>Planet Money is an excellent podcast, and there was an episode a few months ago when <a href="http://www.npr.org/blogs/money/2012/12/21/167802325/episode-425-an-fbi-hostage-negotiator-buys-a-car">a hostage negotiator bought a car</a>.</p>
-
-<p>Negotiation is an interesting game of psychology. The episode outlines
-different kinds of tactics, like asking for multiple small things individually
-to slowly tip the negotiation in your favor. Another tactic was to increase the
-&#8220;size of the pie&#8221; by negotiating for things that have more value to you than
-the person you are negotiating with.</p>
-
-<iframe width="420" height="315" src="http://shan.tanu.me//www.youtube-nocookie.com/embed/S0qjK3TWZE8" frameborder="0" allowfullscreen></iframe>
-
-
-<p>The above scenario is a little different, but involves similar concepts. It&#8217;s a
-variation on the prisoner&#8217;s dilemma. The video is worth a watch, and has
-spurred some <a href="http://www.tutor2u.net/blog/index.php/economics/comments/game-show-game-theory">fascinating economic analysis</a>.</p>
-
-<p>In the above variation of the prisoner&#8217;s dilemma, two participants are forced
-to choose (without knowing the other person&#8217;s choice) to either split a prize
-or steal it. If they both choose to split, they both receive half of the prize.
-If one chooses to steal while the other chooses to split, the person who steals
-receives the full quantity of the prize. If they both choose to steal, they
-lose the entire prize.</p>
-
-<p>The participant in the video changed the rules of the game: instead of playing
-the prisoner&#8217;s dilemma, he bent the rules and removed the &#8220;dilemma&#8221; for the
-other player.</p>
-
-<p>Sometimes, the best way to negotiate is to step outside of the ordinary
-interpretation of the way <em>things are supposed to be</em>.</p>
 ]]></content>
   </entry>
   

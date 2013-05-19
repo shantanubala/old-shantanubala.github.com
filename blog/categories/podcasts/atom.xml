@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: podcasts | Shantanu Bala]]></title>
-  <link href="http://shan.tanu.me/blog/categories/podcasts/atom.xml" rel="self"/>
-  <link href="http://shan.tanu.me/"/>
-  <updated>2013-05-15T18:48:07+12:00</updated>
-  <id>http://shan.tanu.me/</id>
+  <link href="http://sbala.org//blog/categories/podcasts/atom.xml" rel="self"/>
+  <link href="http://sbala.org//"/>
+  <updated>2013-05-19T21:01:36+12:00</updated>
+  <id>http://sbala.org//</id>
   <author>
     <name><![CDATA[Shantanu Bala]]></name>
     <email><![CDATA[sh@tanu.me]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Ancient World Podcast]]></title>
-    <link href="http://shan.tanu.me/blog/2013/04/09/the-ancient-world-podcast/"/>
+    <link href="http://sbala.org//blog/2013/04/09/the-ancient-world-podcast/"/>
     <updated>2013-04-09T22:23:00+12:00</updated>
-    <id>http://shan.tanu.me/blog/2013/04/09/the-ancient-world-podcast</id>
+    <id>http://sbala.org//blog/2013/04/09/the-ancient-world-podcast</id>
     <content type="html"><![CDATA[<p>I just recently stubmled across <a href="http://ancientworldpodcast.blogspot.com/">The Ancient World</a>,
 a podcast about ancient civilizations.</p>
 

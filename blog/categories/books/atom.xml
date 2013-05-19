@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: books | Shantanu Bala]]></title>
-  <link href="http://shan.tanu.me/blog/categories/books/atom.xml" rel="self"/>
-  <link href="http://shan.tanu.me/"/>
-  <updated>2013-05-15T18:48:07+12:00</updated>
-  <id>http://shan.tanu.me/</id>
+  <link href="http://sbala.org//blog/categories/books/atom.xml" rel="self"/>
+  <link href="http://sbala.org//"/>
+  <updated>2013-05-19T21:01:36+12:00</updated>
+  <id>http://sbala.org//</id>
   <author>
     <name><![CDATA[Shantanu Bala]]></name>
     <email><![CDATA[sh@tanu.me]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Personal MBA]]></title>
-    <link href="http://shan.tanu.me/blog/2013/05/05/the-personal-mba/"/>
+    <link href="http://sbala.org//blog/2013/05/05/the-personal-mba/"/>
     <updated>2013-05-05T21:00:00+12:00</updated>
-    <id>http://shan.tanu.me/blog/2013/05/05/the-personal-mba</id>
+    <id>http://sbala.org//blog/2013/05/05/the-personal-mba</id>
     <content type="html"><![CDATA[<p><a href="http://personalmba.com/">The Personal MBA</a> by Josh Kaufman is probably one of
 the best business books I've read. I usually don't enjoy reading business
 books, but Kaufman does an excellent job of being precise and concise in his
@@ -64,9 +64,9 @@ to increase.</li>
   
   <entry>
     <title type="html"><![CDATA[How to Actually Change Your Mind]]></title>
-    <link href="http://shan.tanu.me/blog/2013/05/04/how-to-actually-change-your-mind/"/>
+    <link href="http://sbala.org//blog/2013/05/04/how-to-actually-change-your-mind/"/>
     <updated>2013-05-04T23:03:00+12:00</updated>
-    <id>http://shan.tanu.me/blog/2013/05/04/how-to-actually-change-your-mind</id>
+    <id>http://sbala.org//blog/2013/05/04/how-to-actually-change-your-mind</id>
     <content type="html"><![CDATA[<p>One of the most valuable things I have ever read is the
 <a href="http://lesswrong.com/">LessWrong</a> sequence
 <a href="http://wiki.lesswrong.com/wiki/How_To_Actually_Change_Your_Mind">How To Actually Change Your Mind</a>.</p>
@@ -101,9 +101,9 @@ thought-provoking content.</p>
   
   <entry>
     <title type="html"><![CDATA[Books I'm Reading]]></title>
-    <link href="http://shan.tanu.me/blog/2013/05/01/books-im-reading/"/>
+    <link href="http://sbala.org//blog/2013/05/01/books-im-reading/"/>
     <updated>2013-05-01T21:00:00+12:00</updated>
-    <id>http://shan.tanu.me/blog/2013/05/01/books-im-reading</id>
+    <id>http://sbala.org//blog/2013/05/01/books-im-reading</id>
     <content type="html"><![CDATA[<p>Here are some books that I'm reading right now, and they're all fantastic.</p>
 
 <ul>
@@ -124,9 +124,9 @@ myself accountable: I'll post reviews by the end of May.</p>
   
   <entry>
     <title type="html"><![CDATA[The Attraction of Fan Fiction]]></title>
-    <link href="http://shan.tanu.me/blog/2013/04/11/the-attraction-of-fan-fiction/"/>
+    <link href="http://sbala.org//blog/2013/04/11/the-attraction-of-fan-fiction/"/>
     <updated>2013-04-11T21:12:00+12:00</updated>
-    <id>http://shan.tanu.me/blog/2013/04/11/the-attraction-of-fan-fiction</id>
+    <id>http://sbala.org//blog/2013/04/11/the-attraction-of-fan-fiction</id>
     <content type="html"><![CDATA[<p>I just finished re-reading all of Eliezer Yudkowsky's Harry Potter fanfic -
 <a href="http://hpmor.com/">Harry Potter and the Methods of Rationality</a>. After reading
 it again, I have a new appreciation for what Eliezer is attempting.</p>
@@ -151,9 +151,9 @@ transcends it.</p>
   
   <entry>
     <title type="html"><![CDATA[Some Quotes from Musashi]]></title>
-    <link href="http://shan.tanu.me/blog/2013/04/10/some-quotes-from-musashi/"/>
+    <link href="http://sbala.org//blog/2013/04/10/some-quotes-from-musashi/"/>
     <updated>2013-04-10T23:19:00+12:00</updated>
-    <id>http://shan.tanu.me/blog/2013/04/10/some-quotes-from-musashi</id>
+    <id>http://sbala.org//blog/2013/04/10/some-quotes-from-musashi</id>
     <content type="html"><![CDATA[<p>I just finished re-reading <em>Musashi</em> by Eiji Yoshikawa. It is possibly my
 favorite book, and I will write a more comprehensive book review another time.
 For now, I just wanted to share a few quotes that I thought were golden.</p>

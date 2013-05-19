@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: people | Shantanu Bala]]></title>
-  <link href="http://shan.tanu.me/blog/categories/people/atom.xml" rel="self"/>
-  <link href="http://shan.tanu.me/"/>
-  <updated>2013-05-15T18:48:07+12:00</updated>
-  <id>http://shan.tanu.me/</id>
+  <link href="http://sbala.org//blog/categories/people/atom.xml" rel="self"/>
+  <link href="http://sbala.org//"/>
+  <updated>2013-05-19T21:01:36+12:00</updated>
+  <id>http://sbala.org//</id>
   <author>
     <name><![CDATA[Shantanu Bala]]></name>
     <email><![CDATA[sh@tanu.me]]></email>
@@ -15,16 +15,16 @@
   
   <entry>
     <title type="html"><![CDATA[Salman Rushdie]]></title>
-    <link href="http://shan.tanu.me/blog/2013/04/29/salman-rushdie/"/>
+    <link href="http://sbala.org//blog/2013/04/29/salman-rushdie/"/>
     <updated>2013-04-29T20:41:00+12:00</updated>
-    <id>http://shan.tanu.me/blog/2013/04/29/salman-rushdie</id>
+    <id>http://sbala.org//blog/2013/04/29/salman-rushdie</id>
     <content type="html"><![CDATA[<p>Salman Rushdie is an amazing author. His books produce magic in ways that I
 can't explain in a blog post.</p>
 
 <p>I particularly enjoyed this talk:</p>
 
 <iframe width="420" height="315"
-src="http://shan.tanu.me//www.youtube-nocookie.com/embed/owerxb8rSPo" frameborder="0"
+src="http://sbala.org///www.youtube-nocookie.com/embed/owerxb8rSPo" frameborder="0"
 allowfullscreen></iframe>
 
 

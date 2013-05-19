@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: music | Shantanu Bala]]></title>
-  <link href="http://shan.tanu.me/blog/categories/music/atom.xml" rel="self"/>
-  <link href="http://shan.tanu.me/"/>
-  <updated>2013-05-15T18:48:07+12:00</updated>
-  <id>http://shan.tanu.me/</id>
+  <link href="http://sbala.org//blog/categories/music/atom.xml" rel="self"/>
+  <link href="http://sbala.org//"/>
+  <updated>2013-05-19T21:01:36+12:00</updated>
+  <id>http://sbala.org//</id>
   <author>
     <name><![CDATA[Shantanu Bala]]></name>
     <email><![CDATA[sh@tanu.me]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Ab-Soul's Outro by Kendrick Lamar]]></title>
-    <link href="http://shan.tanu.me/blog/2013/05/14/ab-souls-outro-by-kendrick-lamar/"/>
+    <link href="http://sbala.org//blog/2013/05/14/ab-souls-outro-by-kendrick-lamar/"/>
     <updated>2013-05-14T20:26:00+12:00</updated>
-    <id>http://shan.tanu.me/blog/2013/05/14/ab-souls-outro-by-kendrick-lamar</id>
+    <id>http://sbala.org//blog/2013/05/14/ab-souls-outro-by-kendrick-lamar</id>
     <content type="html"><![CDATA[<iframe width="420" height="315"
 src="http://www.youtube-nocookie.com/embed/gtUsEbbVBuo?rel=0" frameborder="0"
 allowfullscreen></iframe>

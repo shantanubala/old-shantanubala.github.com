@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Shantanu Bala]]></title>
-  <link href="http://shan.tanu.me/atom.xml" rel="self"/>
-  <link href="http://shan.tanu.me/"/>
-  <updated>2013-05-15T18:48:07+12:00</updated>
-  <id>http://shan.tanu.me/</id>
+  <link href="http://sbala.org//atom.xml" rel="self"/>
+  <link href="http://sbala.org//"/>
+  <updated>2013-05-19T21:01:36+12:00</updated>
+  <id>http://sbala.org//</id>
   <author>
     <name><![CDATA[Shantanu Bala]]></name>
     <email><![CDATA[sh@tanu.me]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Universe is Flat]]></title>
-    <link href="http://shan.tanu.me/blog/2013/05/15/the-universe-is-flat/"/>
+    <link href="http://sbala.org//blog/2013/05/15/the-universe-is-flat/"/>
     <updated>2013-05-15T18:36:00+12:00</updated>
-    <id>http://shan.tanu.me/blog/2013/05/15/the-universe-is-flat</id>
+    <id>http://sbala.org//blog/2013/05/15/the-universe-is-flat</id>
     <content type="html"><![CDATA[<iframe width="560" height="315"
 src="http://www.youtube-nocookie.com/embed/EjaGktVQdNg?rel=0" frameborder="0"
 allowfullscreen></iframe>
@@ -98,9 +98,9 @@ the video.</p>
   
   <entry>
     <title type="html"><![CDATA[Ab-Soul's Outro by Kendrick Lamar]]></title>
-    <link href="http://shan.tanu.me/blog/2013/05/14/ab-souls-outro-by-kendrick-lamar/"/>
+    <link href="http://sbala.org//blog/2013/05/14/ab-souls-outro-by-kendrick-lamar/"/>
     <updated>2013-05-14T20:26:00+12:00</updated>
-    <id>http://shan.tanu.me/blog/2013/05/14/ab-souls-outro-by-kendrick-lamar</id>
+    <id>http://sbala.org//blog/2013/05/14/ab-souls-outro-by-kendrick-lamar</id>
     <content type="html"><![CDATA[<iframe width="420" height="315"
 src="http://www.youtube-nocookie.com/embed/gtUsEbbVBuo?rel=0" frameborder="0"
 allowfullscreen></iframe>
@@ -130,9 +130,9 @@ The time is now, child come on.</p></blockquote>
   
   <entry>
     <title type="html"><![CDATA[Creativity is Often Just About Showing Up]]></title>
-    <link href="http://shan.tanu.me/blog/2013/05/10/creativity-is-often-just-about-showing-up/"/>
+    <link href="http://sbala.org//blog/2013/05/10/creativity-is-often-just-about-showing-up/"/>
     <updated>2013-05-10T10:16:00+12:00</updated>
-    <id>http://shan.tanu.me/blog/2013/05/10/creativity-is-often-just-about-showing-up</id>
+    <id>http://sbala.org//blog/2013/05/10/creativity-is-often-just-about-showing-up</id>
     <content type="html"><![CDATA[<blockquote><p> Inspiration is frequently misunderstood. When I was a young writer I looked
  for it in all the wrong places. In my twenties, I lived with my wife in a
  studio apartment just off Washington Square. Somehow I decided that the best
@@ -194,9 +194,9 @@ see our own successes, we associate the results with the situation we are in.</p
   
   <entry>
     <title type="html"><![CDATA[What causes burnout?]]></title>
-    <link href="http://shan.tanu.me/blog/2013/05/09/what-causes-burnout/"/>
+    <link href="http://sbala.org//blog/2013/05/09/what-causes-burnout/"/>
     <updated>2013-05-09T18:25:00+12:00</updated>
-    <id>http://shan.tanu.me/blog/2013/05/09/what-causes-burnout</id>
+    <id>http://sbala.org//blog/2013/05/09/what-causes-burnout</id>
     <content type="html"><![CDATA[<p>I noticed an <a href="http://iamnotaprogrammer.com/Burnout-is-caused-by-resentment.html#comment-478842490">excellent comment on Marissa Mayer&#8217;s blog</a>
 about the nature of burnout.</p>
 
@@ -228,9 +228,9 @@ failures.</p>
   
   <entry>
     <title type="html"><![CDATA[Rabbits and Lemonade]]></title>
-    <link href="http://shan.tanu.me/blog/2013/05/08/rabbits-and-lemonade/"/>
+    <link href="http://sbala.org//blog/2013/05/08/rabbits-and-lemonade/"/>
     <updated>2013-05-08T20:45:00+12:00</updated>
-    <id>http://shan.tanu.me/blog/2013/05/08/rabbits-and-lemonade</id>
+    <id>http://sbala.org//blog/2013/05/08/rabbits-and-lemonade</id>
     <content type="html"><![CDATA[<p>No Walrus.<br/>
 No Queen of Hearts.<br/>
 Not even the Mad Hatter.</p>
@@ -245,9 +245,9 @@ And what machine shall I build to ensure that they&#8217;re shattered?</p>
   
   <entry>
     <title type="html"><![CDATA[Security and Privacy]]></title>
-    <link href="http://shan.tanu.me/blog/2013/05/07/security-and-privacy/"/>
+    <link href="http://sbala.org//blog/2013/05/07/security-and-privacy/"/>
     <updated>2013-05-07T20:11:00+12:00</updated>
-    <id>http://shan.tanu.me/blog/2013/05/07/security-and-privacy</id>
+    <id>http://sbala.org//blog/2013/05/07/security-and-privacy</id>
     <content type="html"><![CDATA[<p><a href="http://www.schneier.com/">Bruce Schneier&#8217;s Blog</a> is an ecellent web site to
 read, especially if you are interested in issues related to security. Although
 a lot of his writing can be very technical, there are a few of his essays that
@@ -299,9 +299,9 @@ effective price to pay.</p>
   
   <entry>
     <title type="html"><![CDATA[Coursera Machine Learning]]></title>
-    <link href="http://shan.tanu.me/blog/2013/05/06/coursera-machine-learning/"/>
+    <link href="http://sbala.org//blog/2013/05/06/coursera-machine-learning/"/>
     <updated>2013-05-06T23:06:00+12:00</updated>
-    <id>http://shan.tanu.me/blog/2013/05/06/coursera-machine-learning</id>
+    <id>http://sbala.org//blog/2013/05/06/coursera-machine-learning</id>
     <content type="html"><![CDATA[<p>I&#8217;m two weeks into the <a href="https://www.coursera.org/course/ml">Stanford Machine Learning course</a>
 taught by Andrew Ng through Coursera.</p>
 
@@ -328,9 +328,9 @@ signalling pretty big changes in education coming soon.</p>
   
   <entry>
     <title type="html"><![CDATA[The Personal MBA]]></title>
-    <link href="http://shan.tanu.me/blog/2013/05/05/the-personal-mba/"/>
+    <link href="http://sbala.org//blog/2013/05/05/the-personal-mba/"/>
     <updated>2013-05-05T21:00:00+12:00</updated>
-    <id>http://shan.tanu.me/blog/2013/05/05/the-personal-mba</id>
+    <id>http://sbala.org//blog/2013/05/05/the-personal-mba</id>
     <content type="html"><![CDATA[<p><a href="http://personalmba.com/">The Personal MBA</a> by Josh Kaufman is probably one of
 the best business books I&#8217;ve read. I usually don&#8217;t enjoy reading business
 books, but Kaufman does an excellent job of being precise and concise in his
@@ -377,9 +377,9 @@ to increase.</li>
   
   <entry>
     <title type="html"><![CDATA[How to Actually Change Your Mind]]></title>
-    <link href="http://shan.tanu.me/blog/2013/05/04/how-to-actually-change-your-mind/"/>
+    <link href="http://sbala.org//blog/2013/05/04/how-to-actually-change-your-mind/"/>
     <updated>2013-05-04T23:03:00+12:00</updated>
-    <id>http://shan.tanu.me/blog/2013/05/04/how-to-actually-change-your-mind</id>
+    <id>http://sbala.org//blog/2013/05/04/how-to-actually-change-your-mind</id>
     <content type="html"><![CDATA[<p>One of the most valuable things I have ever read is the
 <a href="http://lesswrong.com/">LessWrong</a> sequence
 <a href="http://wiki.lesswrong.com/wiki/How_To_Actually_Change_Your_Mind">How To Actually Change Your Mind</a>.</p>
@@ -414,10 +414,10 @@ thought-provoking content.</p>
   
   <entry>
     <title type="html"><![CDATA[A Spring on the Tongariro Crossing]]></title>
-    <link href="http://shan.tanu.me/blog/2013/05/03/a-spring-on-the-tongariro-crossing/"/>
+    <link href="http://sbala.org//blog/2013/05/03/a-spring-on-the-tongariro-crossing/"/>
     <updated>2013-05-03T20:42:00+12:00</updated>
-    <id>http://shan.tanu.me/blog/2013/05/03/a-spring-on-the-tongariro-crossing</id>
-    <content type="html"><![CDATA[<p><img src="http://shan.tanu.me/uploads/tongariro.jpg" alt="A Spring on the Tongariro Crossing" /></p>
+    <id>http://sbala.org//blog/2013/05/03/a-spring-on-the-tongariro-crossing</id>
+    <content type="html"><![CDATA[<p><img src="http://sbala.org//uploads/tongariro.jpg" alt="A Spring on the Tongariro Crossing" /></p>
 
 <p>The above photograph was taken at the Tongariro Alpine Crossing in New Zealand,
 and it&#8217;s a picture of a spring near the summit.</p>
@@ -428,9 +428,9 @@ and it&#8217;s a picture of a spring near the summit.</p>
   
   <entry>
     <title type="html"><![CDATA[Practicing Memorizing]]></title>
-    <link href="http://shan.tanu.me/blog/2013/05/02/practicing-memorizing/"/>
+    <link href="http://sbala.org//blog/2013/05/02/practicing-memorizing/"/>
     <updated>2013-05-02T11:48:00+12:00</updated>
-    <id>http://shan.tanu.me/blog/2013/05/02/practicing-memorizing</id>
+    <id>http://sbala.org//blog/2013/05/02/practicing-memorizing</id>
     <content type="html"><![CDATA[<p>I&#8217;m working on my ability to remember information. Instead of using memory
 &#8220;tricks&#8221; like the <a href="http://en.wikipedia.org/wiki/Method_of_loci">method of loci</a>
 or <a href="http://en.wikipedia.org/wiki/Chunking_%28psychology%29">chunking</a>, I&#8217;m
@@ -481,9 +481,9 @@ tracking of accuracy to maximize recall</li>
   
   <entry>
     <title type="html"><![CDATA[Books I'm Reading]]></title>
-    <link href="http://shan.tanu.me/blog/2013/05/01/books-im-reading/"/>
+    <link href="http://sbala.org//blog/2013/05/01/books-im-reading/"/>
     <updated>2013-05-01T21:00:00+12:00</updated>
-    <id>http://shan.tanu.me/blog/2013/05/01/books-im-reading</id>
+    <id>http://sbala.org//blog/2013/05/01/books-im-reading</id>
     <content type="html"><![CDATA[<p>Here are some books that I&#8217;m reading right now, and they&#8217;re all fantastic.</p>
 
 <ul>
@@ -504,16 +504,16 @@ myself accountable: I&#8217;ll post reviews by the end of May.</p>
   
   <entry>
     <title type="html"><![CDATA[Salman Rushdie]]></title>
-    <link href="http://shan.tanu.me/blog/2013/04/29/salman-rushdie/"/>
+    <link href="http://sbala.org//blog/2013/04/29/salman-rushdie/"/>
     <updated>2013-04-29T20:41:00+12:00</updated>
-    <id>http://shan.tanu.me/blog/2013/04/29/salman-rushdie</id>
+    <id>http://sbala.org//blog/2013/04/29/salman-rushdie</id>
     <content type="html"><![CDATA[<p>Salman Rushdie is an amazing author. His books produce magic in ways that I
 can&#8217;t explain in a blog post.</p>
 
 <p>I particularly enjoyed this talk:</p>
 
 <iframe width="420" height="315"
-src="http://shan.tanu.me//www.youtube-nocookie.com/embed/owerxb8rSPo" frameborder="0"
+src="http://sbala.org///www.youtube-nocookie.com/embed/owerxb8rSPo" frameborder="0"
 allowfullscreen></iframe>
 
 
@@ -531,9 +531,9 @@ I repeat for the last time: to understand me, you&#8217;ll have to swallow a wor
   
   <entry>
     <title type="html"><![CDATA[Problems in Education]]></title>
-    <link href="http://shan.tanu.me/blog/2013/04/12/problems-in-education/"/>
+    <link href="http://sbala.org//blog/2013/04/12/problems-in-education/"/>
     <updated>2013-04-12T21:24:00+12:00</updated>
-    <id>http://shan.tanu.me/blog/2013/04/12/problems-in-education</id>
+    <id>http://sbala.org//blog/2013/04/12/problems-in-education</id>
     <content type="html"><![CDATA[<blockquote><p>The specific project I was evaluating had only gotten $800,000 out of the
 maximum $2m. Its strategy was to purchase the male students iPod Touches, the
 female students makeovers, manicures, and pedicures at a local beauty parlor,
@@ -560,9 +560,9 @@ evidence.</p>
   
   <entry>
     <title type="html"><![CDATA[The Attraction of Fan Fiction]]></title>
-    <link href="http://shan.tanu.me/blog/2013/04/11/the-attraction-of-fan-fiction/"/>
+    <link href="http://sbala.org//blog/2013/04/11/the-attraction-of-fan-fiction/"/>
     <updated>2013-04-11T21:12:00+12:00</updated>
-    <id>http://shan.tanu.me/blog/2013/04/11/the-attraction-of-fan-fiction</id>
+    <id>http://sbala.org//blog/2013/04/11/the-attraction-of-fan-fiction</id>
     <content type="html"><![CDATA[<p>I just finished re-reading all of Eliezer Yudkowsky&#8217;s Harry Potter fanfic -
 <a href="http://hpmor.com/">Harry Potter and the Methods of Rationality</a>. After reading
 it again, I have a new appreciation for what Eliezer is attempting.</p>
@@ -587,9 +587,9 @@ transcends it.</p>
   
   <entry>
     <title type="html"><![CDATA[Some Quotes from Musashi]]></title>
-    <link href="http://shan.tanu.me/blog/2013/04/10/some-quotes-from-musashi/"/>
+    <link href="http://sbala.org//blog/2013/04/10/some-quotes-from-musashi/"/>
     <updated>2013-04-10T23:19:00+12:00</updated>
-    <id>http://shan.tanu.me/blog/2013/04/10/some-quotes-from-musashi</id>
+    <id>http://sbala.org//blog/2013/04/10/some-quotes-from-musashi</id>
     <content type="html"><![CDATA[<p>I just finished re-reading <em>Musashi</em> by Eiji Yoshikawa. It is possibly my
 favorite book, and I will write a more comprehensive book review another time.
 For now, I just wanted to share a few quotes that I thought were golden.</p>
@@ -634,9 +634,9 @@ tomorrow&#8230;</p>
   
   <entry>
     <title type="html"><![CDATA[The Ancient World Podcast]]></title>
-    <link href="http://shan.tanu.me/blog/2013/04/09/the-ancient-world-podcast/"/>
+    <link href="http://sbala.org//blog/2013/04/09/the-ancient-world-podcast/"/>
     <updated>2013-04-09T22:23:00+12:00</updated>
-    <id>http://shan.tanu.me/blog/2013/04/09/the-ancient-world-podcast</id>
+    <id>http://sbala.org//blog/2013/04/09/the-ancient-world-podcast</id>
     <content type="html"><![CDATA[<p>I just recently stubmled across <a href="http://ancientworldpodcast.blogspot.com/">The Ancient World</a>,
 a podcast about ancient civilizations.</p>
 
@@ -663,14 +663,14 @@ Republic in an effort to <em>preserve the values of the constitution</em>.</p>
   
   <entry>
     <title type="html"><![CDATA[Moonwalking with Einstein]]></title>
-    <link href="http://shan.tanu.me/blog/2013/04/08/moonwalking-with-einstein/"/>
+    <link href="http://sbala.org//blog/2013/04/08/moonwalking-with-einstein/"/>
     <updated>2013-04-08T10:53:00+12:00</updated>
-    <id>http://shan.tanu.me/blog/2013/04/08/moonwalking-with-einstein</id>
+    <id>http://sbala.org//blog/2013/04/08/moonwalking-with-einstein</id>
     <content type="html"><![CDATA[<p><em>Moonwalking with Einstein</em> by Joshua Foer is an excellent book. Although you
 can watch his TED talk to get a quick summary of the book&#8217;s main ideas, I would
 highly recommend reading the book.</p>
 
-<iframe width="560" height="315" src="http://shan.tanu.me//www.youtube.com/embed/U6PoUg7jXsA"
+<iframe width="560" height="315" src="http://sbala.org///www.youtube.com/embed/U6PoUg7jXsA"
 frameborder="0" allowfullscreen></iframe>
 
 
@@ -696,9 +696,9 @@ deliberate practice can produce seemingly superhuman results.</p>
   
   <entry>
     <title type="html"><![CDATA[Surely You're Joking Mr. Feynman]]></title>
-    <link href="http://shan.tanu.me/blog/2013/04/07/surely-youre-joking-mr-feynman/"/>
+    <link href="http://sbala.org//blog/2013/04/07/surely-youre-joking-mr-feynman/"/>
     <updated>2013-04-07T09:02:00+12:00</updated>
-    <id>http://shan.tanu.me/blog/2013/04/07/surely-youre-joking-mr-feynman</id>
+    <id>http://sbala.org//blog/2013/04/07/surely-youre-joking-mr-feynman</id>
     <content type="html"><![CDATA[<p><em>Surely You&#8217;re Joking Mr. Feynman</em> by Richard Feynman is one of the best
 autobiographical books I have ever read. The brilliance of the book is its
 seeming lack of structure - Feynman simply jumps between different stories
@@ -740,9 +740,9 @@ students to find environments in which their curiosity can flourish.</p>
   
   <entry>
     <title type="html"><![CDATA[Facebook Phone]]></title>
-    <link href="http://shan.tanu.me/blog/2013/04/05/facebook-phone/"/>
+    <link href="http://sbala.org//blog/2013/04/05/facebook-phone/"/>
     <updated>2013-04-05T09:02:00+13:00</updated>
-    <id>http://shan.tanu.me/blog/2013/04/05/facebook-phone</id>
+    <id>http://sbala.org//blog/2013/04/05/facebook-phone</id>
     <content type="html"><![CDATA[<p>One of the most exciting things about Facebook Home is that Facebook is
 releasing a phone in partnership with HTC.</p>
 

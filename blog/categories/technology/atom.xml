@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: technology | Shantanu Bala]]></title>
-  <link href="http://shan.tanu.me/blog/categories/technology/atom.xml" rel="self"/>
-  <link href="http://shan.tanu.me/"/>
-  <updated>2013-05-15T18:48:07+12:00</updated>
-  <id>http://shan.tanu.me/</id>
+  <link href="http://sbala.org//blog/categories/technology/atom.xml" rel="self"/>
+  <link href="http://sbala.org//"/>
+  <updated>2013-05-19T21:01:36+12:00</updated>
+  <id>http://sbala.org//</id>
   <author>
     <name><![CDATA[Shantanu Bala]]></name>
     <email><![CDATA[sh@tanu.me]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Facebook Phone]]></title>
-    <link href="http://shan.tanu.me/blog/2013/04/05/facebook-phone/"/>
+    <link href="http://sbala.org//blog/2013/04/05/facebook-phone/"/>
     <updated>2013-04-05T09:02:00+13:00</updated>
-    <id>http://shan.tanu.me/blog/2013/04/05/facebook-phone</id>
+    <id>http://sbala.org//blog/2013/04/05/facebook-phone</id>
     <content type="html"><![CDATA[<p>One of the most exciting things about Facebook Home is that Facebook is
 releasing a phone in partnership with HTC.</p>
 

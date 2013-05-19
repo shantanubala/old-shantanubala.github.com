@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: learning | Shantanu Bala]]></title>
-  <link href="http://shan.tanu.me/blog/categories/learning/atom.xml" rel="self"/>
-  <link href="http://shan.tanu.me/"/>
-  <updated>2013-05-15T18:48:07+12:00</updated>
-  <id>http://shan.tanu.me/</id>
+  <link href="http://sbala.org//blog/categories/learning/atom.xml" rel="self"/>
+  <link href="http://sbala.org//"/>
+  <updated>2013-05-19T21:01:36+12:00</updated>
+  <id>http://sbala.org//</id>
   <author>
     <name><![CDATA[Shantanu Bala]]></name>
     <email><![CDATA[sh@tanu.me]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Coursera Machine Learning]]></title>
-    <link href="http://shan.tanu.me/blog/2013/05/06/coursera-machine-learning/"/>
+    <link href="http://sbala.org//blog/2013/05/06/coursera-machine-learning/"/>
     <updated>2013-05-06T23:06:00+12:00</updated>
-    <id>http://shan.tanu.me/blog/2013/05/06/coursera-machine-learning</id>
+    <id>http://sbala.org//blog/2013/05/06/coursera-machine-learning</id>
     <content type="html"><![CDATA[<p>I'm two weeks into the <a href="https://www.coursera.org/course/ml">Stanford Machine Learning course</a>
 taught by Andrew Ng through Coursera.</p>
 

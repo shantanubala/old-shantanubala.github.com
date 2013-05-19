@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: security | Shantanu Bala]]></title>
-  <link href="http://shan.tanu.me/blog/categories/security/atom.xml" rel="self"/>
-  <link href="http://shan.tanu.me/"/>
-  <updated>2013-05-15T18:48:07+12:00</updated>
-  <id>http://shan.tanu.me/</id>
+  <link href="http://sbala.org//blog/categories/security/atom.xml" rel="self"/>
+  <link href="http://sbala.org//"/>
+  <updated>2013-05-19T21:01:36+12:00</updated>
+  <id>http://sbala.org//</id>
   <author>
     <name><![CDATA[Shantanu Bala]]></name>
     <email><![CDATA[sh@tanu.me]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Security and Privacy]]></title>
-    <link href="http://shan.tanu.me/blog/2013/05/07/security-and-privacy/"/>
+    <link href="http://sbala.org//blog/2013/05/07/security-and-privacy/"/>
     <updated>2013-05-07T20:11:00+12:00</updated>
-    <id>http://shan.tanu.me/blog/2013/05/07/security-and-privacy</id>
+    <id>http://sbala.org//blog/2013/05/07/security-and-privacy</id>
     <content type="html"><![CDATA[<p><a href="http://www.schneier.com/">Bruce Schneier's Blog</a> is an ecellent web site to
 read, especially if you are interested in issues related to security. Although
 a lot of his writing can be very technical, there are a few of his essays that

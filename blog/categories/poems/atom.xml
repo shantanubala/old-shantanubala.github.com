@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: poems | Shantanu Bala]]></title>
-  <link href="http://shan.tanu.me/blog/categories/poems/atom.xml" rel="self"/>
-  <link href="http://shan.tanu.me/"/>
-  <updated>2013-05-15T18:48:07+12:00</updated>
-  <id>http://shan.tanu.me/</id>
+  <link href="http://sbala.org//blog/categories/poems/atom.xml" rel="self"/>
+  <link href="http://sbala.org//"/>
+  <updated>2013-05-19T21:01:36+12:00</updated>
+  <id>http://sbala.org//</id>
   <author>
     <name><![CDATA[Shantanu Bala]]></name>
     <email><![CDATA[sh@tanu.me]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Rabbits and Lemonade]]></title>
-    <link href="http://shan.tanu.me/blog/2013/05/08/rabbits-and-lemonade/"/>
+    <link href="http://sbala.org//blog/2013/05/08/rabbits-and-lemonade/"/>
     <updated>2013-05-08T20:45:00+12:00</updated>
-    <id>http://shan.tanu.me/blog/2013/05/08/rabbits-and-lemonade</id>
+    <id>http://sbala.org//blog/2013/05/08/rabbits-and-lemonade</id>
     <content type="html"><![CDATA[<p>No Walrus.<br/>
 No Queen of Hearts.<br/>
 Not even the Mad Hatter.</p>

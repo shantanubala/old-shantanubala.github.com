@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: politics | Shantanu Bala]]></title>
-  <link href="http://shan.tanu.me/blog/categories/politics/atom.xml" rel="self"/>
-  <link href="http://shan.tanu.me/"/>
-  <updated>2013-05-15T18:48:07+12:00</updated>
-  <id>http://shan.tanu.me/</id>
+  <link href="http://sbala.org//blog/categories/politics/atom.xml" rel="self"/>
+  <link href="http://sbala.org//"/>
+  <updated>2013-05-19T21:01:36+12:00</updated>
+  <id>http://sbala.org//</id>
   <author>
     <name><![CDATA[Shantanu Bala]]></name>
     <email><![CDATA[sh@tanu.me]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Problems in Education]]></title>
-    <link href="http://shan.tanu.me/blog/2013/04/12/problems-in-education/"/>
+    <link href="http://sbala.org//blog/2013/04/12/problems-in-education/"/>
     <updated>2013-04-12T21:24:00+12:00</updated>
-    <id>http://shan.tanu.me/blog/2013/04/12/problems-in-education</id>
+    <id>http://sbala.org//blog/2013/04/12/problems-in-education</id>
     <content type="html"><![CDATA[<blockquote><p>The specific project I was evaluating had only gotten $800,000 out of the
 maximum $2m. Its strategy was to purchase the male students iPod Touches, the
 female students makeovers, manicures, and pedicures at a local beauty parlor,

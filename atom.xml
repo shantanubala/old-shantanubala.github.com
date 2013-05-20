@@ -4,7 +4,7 @@
   <title><![CDATA[Shantanu Bala]]></title>
   <link href="http://sbala.org//atom.xml" rel="self"/>
   <link href="http://sbala.org//"/>
-  <updated>2013-05-19T21:03:14+12:00</updated>
+  <updated>2013-05-20T20:20:13+12:00</updated>
   <id>http://sbala.org//</id>
   <author>
     <name><![CDATA[Shantanu Bala]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Statistical Formulas for Programmers]]></title>
+    <link href="http://sbala.org//blog/2013/05/20/statistical-formulas-for-programmers/"/>
+    <updated>2013-05-20T20:16:00+12:00</updated>
+    <id>http://sbala.org//blog/2013/05/20/statistical-formulas-for-programmers</id>
+    <content type="html"><![CDATA[<blockquote><p>Being able to apply statistics is like having a secret superpower.</p>
+
+<p>Where most people see averages, you see confidence intervals.</p>
+
+<p>When someone says “7 is greater than 5,” you declare that the data-generating
+processes are, in fact, indistinguishable.</p>
+
+<p>In a cacophony of noise, you hear a cry for help.</p></blockquote>
+
+<p>Evan Miller has written an excellent resource detailing the numerous
+<a href="http://www.evanmiller.org/statistical-formulas-for-programmers.html">statistical formulas that are useful for programmers</a>.</p>
+
+<p>The resource describes the formulas and their applications, and is an excellent
+resource for getting a better understanding of data.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Universe is Flat]]></title>
@@ -735,27 +757,6 @@ universe.</p></blockquote>
 his mind. It appears that the book isn&#8217;t just intended as a way to store his
 memories. Instead, he closes the novel with a speech he wrote encouraging
 students to find environments in which their curiosity can flourish.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Facebook Phone]]></title>
-    <link href="http://sbala.org//blog/2013/04/05/facebook-phone/"/>
-    <updated>2013-04-05T09:02:00+13:00</updated>
-    <id>http://sbala.org//blog/2013/04/05/facebook-phone</id>
-    <content type="html"><![CDATA[<p>One of the most exciting things about Facebook Home is that Facebook is
-releasing a phone in partnership with HTC.</p>
-
-<p>Although I don’t personally use a smart phone, it is fascinating to think about
-the change this could bring.</p>
-
-<p>SMS used to be a big deal before the iPhone. It’s only very recently that
-social networking has taken over communication, although SMS is still used for
-communication that needs to be instant.</p>
-
-<p>The key question for the future: how much will the lines between phone calls,
-SMS, and Facebook messaging blur? How long will it take before Facebook
-establishes itself as an identity on the same level as a phone number?</p>
 ]]></content>
   </entry>
   

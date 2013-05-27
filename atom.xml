@@ -4,7 +4,7 @@
   <title><![CDATA[Shantanu Bala]]></title>
   <link href="http://sbala.org//atom.xml" rel="self"/>
   <link href="http://sbala.org//"/>
-  <updated>2013-05-20T20:20:51+12:00</updated>
+  <updated>2013-05-27T16:44:07+12:00</updated>
   <id>http://sbala.org//</id>
   <author>
     <name><![CDATA[Shantanu Bala]]></name>
@@ -12,6 +12,85 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[What Startups Can Learn From The Cola Wars]]></title>
+    <link href="http://sbala.org//blog/2013/05/27/what-startups-can-learn-from-the-cola-wars/"/>
+    <updated>2013-05-27T14:15:00+12:00</updated>
+    <id>http://sbala.org//blog/2013/05/27/what-startups-can-learn-from-the-cola-wars</id>
+    <content type="html"><![CDATA[<p>As I&#8217;m building <a href="https://ebookglue.com">my first company</a>, I&#8217;m constantly searching for inspiration in a variety of places: <a href="http://mixergy.com/">interviews</a>, <a href="http://books.google.co.nz/books/about/Titan.html?id=Mleb5acWQF4C&amp;redir_esc=y">biographies</a>, and <a href="http://www.paulgraham.com/articles.html">essays</a>. Over time, I&#8217;ve found that analyzing rivalries between companies is the most interesting way to learn about strategy. It&#8217;s like watching two fighters in a ring to see who has better technique.</p>
+
+<p>Why not look at one of the most famous consumer product rivalries in recent history? That&#8217;s right: Coke vs. Pepsi.</p>
+
+<p><img src="http://sbala.org//uploads/coke-vs-pepsi.jpg" alt="Coke vs. Pepsi" /></p>
+
+<h2>Split testing, not sip testing.</h2>
+
+<p>Nearly 8 years ago, Malcolm Gladwell wrote about the <a href="http://en.wikipedia.org/wiki/Pepsi_Challenge">Pepsi Challenge</a> in <em>Blink</em>. The Pepsi Challenge was a marketing campaign: instead of buying based on brand, PepsiCo &#8220;challenged&#8221; people to a blind taste test: take a sip of two colas and judge for yourself.</p>
+
+<p>The verdict? People like Pepsi better than Coke. This caused a panic in Coke headquarters and resulted in one of the biggest flops of soft drink history: <a href="https://en.wikipedia.org/wiki/New_Coke">New Coke</a>, an attempt to reformulate Coca Cola to make it more appealing in taste tests.</p>
+
+<p>If Pepsi was better, why did Coke keep its market share? If New Coke was more appealing in taste tests, why did people hate it?</p>
+
+<p>As Gladwell points out, the sip test was a flawed methodology. It didn&#8217;t test <em>how much</em> of the soda people consumed. There is a difference between drinking an entire can of soda and drinking a few milliliters. Nobody purchases a can of soda only to take a sip and throw the rest away, but that was exactly the variable they were attempting to optimize.</p>
+
+<p>In startups, A/B testing has become very popular. There are tools like <a href="http://optimizely.com/">Optimizely</a>, <a href="http://visualwebsiteoptimizer.com/">Visual Web Site Optimizer</a>, and <a href="http://www.bingocardcreator.com/abingo">A/Bingo</a> that make the process extremely easy. But if the product you are creating involves more than just a single &#8220;buy now&#8221; button, you have to be very careful. Although A/B testing has become easier, testing true retention and engagement is a much more lengthy process that can take months to understand.</p>
+
+<p>Testing is a powerful tool, but you have to make sure you aren&#8217;t administering sip tests when you&#8217;re trying to sell bottles.</p>
+
+<h2>Do you actually need to reformulate?</h2>
+
+<p>Coke was extremely popular in the 1980&#8217;s before New Coke was released in 1985. Coca Cola was making a product that people wanted and enjoyed. Coca Cola&#8217;s biggest mistake was assuming that customers wanted a better-tasting soda (on average) rather than the soda that they were already buying.</p>
+
+<p>Technology companies make this mistake all the time: they look at competitors and think, &#8220;why didn&#8217;t we make that?&#8221; Microsoft had this response to Apple with the Zune, and Google recently had this response to Facebook with Google+.</p>
+
+<p>It&#8217;s obvious from the third person: what differentiates a product is how it <em>differs</em> from the competition! Instead of trying to make &#8220;a better iPod,&#8221; Microsoft should have tried leveraging its own advantages (for example, Microsoft was excelling at console gaming with the Xbox) to find opportunities that Apple was missing or intentionally ignoring. Google+ Circles are an attempt to differentiate Google+ from Facebook by having a more realistic representation of our social lives, but will that be enough? Only time will tell.</p>
+
+<p>The important point is that New Coke didn&#8217;t seem like a bad idea. The science <em>proved</em> it was superior, and the decisions appeared to be strategic. The hard part of finding success is learning to recognize our own failures before they actually take shape.</p>
+
+<p>New Coke was undoubtedly the result of a few brainstorming sessions revolving around the topic, &#8220;How do we beat Pepsi?&#8221; When attempting to solve such a problem, it is also important to brainstorm, &#8220;How could this solution fail?&#8221;</p>
+
+<h2>Consistency is underappreciated or overappreciated?</h2>
+
+<p>People dislike change. Moreso, people dislike change when they don&#8217;t see the need for it.</p>
+
+<p>New Coke was an unnecessary change. A consumer can understand that Coca Cola can no longer <a href="http://en.wikipedia.org/wiki/Coca-Cola#Coca_.E2.80.93_cocaine">include cocaine</a> in their product due to DEA regulations, but a consumer will not sympathize with a &#8220;reformulation&#8221; unless the amount of value he or she gains exceeds the cost of switching to the new product.</p>
+
+<p>Startups by definition have to move fast and constantly be iterating. Change is intrinsically part of the game: if you can&#8217;t change fast enough, you lose.</p>
+
+<p>This presents an interesting situation: the average benefit of changes seems to scale linearly with the number of users, but the average cost of changes scales at a greater rate. In other words, there is a point where those two intersect. After that point, it becomes harder and harder to find changes that bring more value than they cost.</p>
+
+<p><img src="http://sbala.org//uploads/cost-of-change.jpg" alt="Cost of Change vs. Expected Benefit" /></p>
+
+<p>When Coca Cola came up with New Coke, they were already too far past the point of intersection.</p>
+
+<h2>Branding has always been part of our social realities.</h2>
+
+<p><a href="http://www.acrwebsite.org/search/view-conference-proceedings.aspx?Id=8388">A consumer research study on Coca Cola</a> has examined the behavior of people who collect Coca Cola products. An in-depth look at people visiting &#8220;the annual Coca-Cola Collectors Convention, three Coca-Cola collector-only events, and several brand specific retail outlets, including the World of Coca-Cola in Atlanta, Georgia and the Fifth Avenue Coca-Cola Store in New York City&#8221; has shown that &#8220;it isn’t just the product they like, they like what the company stands for: &#8216;the Coca Cola mystique&#8217; as more than one collector deemed it.&#8221;</p>
+
+<p>People expressed how Coca Cola is &#8220;tied to the American way of life.&#8221; The goal of any company should be to develop that level of loyalty. You cannot develop that just by making good products. You have to make people <em>happy</em> and allow them to feel like they are sharing culture.</p>
+
+<p>This was, in part, why the Pepsi Challenge failed. Pepsi still doesn&#8217;t have a clear value statement. When I think of Pepsi, I don&#8217;t have other parts of my life that are embedded with the brand. When I think of Coca Cola, I think of iconic commercials with <a href="https://www.youtube.com/watch?v=xj1oQ1tQ02M">football stars</a> and the <a href="https://www.youtube.com/watch?v=9dHOzw5KSlE">beauty of everyday happiness</a>.</p>
+
+<p>When you&#8217;re making software, you don&#8217;t have to be as melodramatic.</p>
+
+<p>Github is one of the most recent examples of a company that excels at creating culture. Everything down to the <a href="https://github.com/404">Github 404 page</a> has a unique <em>geekiness</em> to it, but more importantly, they actively encourage people to become part of the community. By embracing open source software projects, they encouraged people to integrate Github into their lives in a way that very few companies are able to. Nowadays, &#8220;open source&#8221; often implies &#8220;fork it on Github.&#8221; When I am about to start hacking on a project, the first thought is, &#8220;let&#8217;s make a Github repo.&#8221;</p>
+
+<h2>There are multiple &#8220;perfect&#8221; flavors.</h2>
+
+<p>Though Coca Cola &#8220;won&#8221; the cola war, PepsiCo is still a multi-billion dollar company that is here to stay.</p>
+
+<p>Look a little further and you&#8217;ll see many other smaller brands that are still alive and profitable. Even no-name generic soft drinks will be purchased in a grocery store.</p>
+
+<p>In the continuum of people&#8217;s preferences for cola, there are multiple spikes of different sizes. The goal of a company is to capitalize on one of the spikes.</p>
+
+<p>In this sense, a startup seems to be like an attempt to navigate such a space. Sometimes, you&#8217;re in uncharted territory. Other times, you&#8217;re in an area with other people with the hope that you can climb faster and higher.</p>
+
+<p>I can&#8217;t wait to see how it goes.</p>
+
+<p><em>P.S. If you have any feedback, or want to check out <a href="https://ebookglue.com/">Ebook Glue</a>, send me an email at shantanu@ebookglue.com</em></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Statistical Formulas for Programmers]]></title>
@@ -713,50 +792,6 @@ require <em>genius</em>, when it truly just requires focus and practice.</p>
 
 <p>If there is one important lesson to gain from the book, it is that focus and
 deliberate practice can produce seemingly superhuman results.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Surely You're Joking Mr. Feynman]]></title>
-    <link href="http://sbala.org//blog/2013/04/07/surely-youre-joking-mr-feynman/"/>
-    <updated>2013-04-07T09:02:00+12:00</updated>
-    <id>http://sbala.org//blog/2013/04/07/surely-youre-joking-mr-feynman</id>
-    <content type="html"><![CDATA[<p><em>Surely You&#8217;re Joking Mr. Feynman</em> by Richard Feynman is one of the best
-autobiographical books I have ever read. The brilliance of the book is its
-seeming lack of structure - Feynman simply jumps between different stories
-about his life, but the end result is fascinating. Richard Feynman is possibly
-one of the most interesting people to have lived, and this book is good
-evidence for that.</p>
-
-<blockquote><p>The electron is a theory we use; it is so useful in understanding the way
-nature works that we can almost call it real.</p></blockquote>
-
-<p>There are gems hidden in the book like the above quote. It seems like an
-ordinary statement, but hidden inside of it is something really profound:
-Feynman is able to put very complex ideas into simple words. He is describing
-the difference between the <a href="http://en.wikipedia.org/wiki/The_Map_and_the_Territory">map and the territory</a>
-without invoking age-old philosophical discussions. Instead, he uses a
-semicolon.</p>
-
-<blockquote><p>I wanted very much to learn to draw, for a reason that I kept to myself: I
-wanted to convey an emotion I have about the beauty of the world. It&#8217;s
-difficult to describe because it&#8217;s an emotion. It&#8217;s analogous to the feeling
-one has in religion that has to do with a god that controls everything in the
-whole universe: there&#8217;s a generality aspect that you feel when you think
-about how things that appear so different and behave so differently are all
-run &#8220;behind the scenes&#8221; by the same organization, the same physical laws.
-It&#8217;s an appreciation of the mathematical beauty of nature, of how she works
-inside; a realization that the phenomena we see result from the complexity of
-the inner workings between atoms; a feeling of how dramatic and wonderful it
-is. It&#8217;s a feeling of awe — of scientific awe — which I felt could be
-communicated through a drawing to someone who had also had this emotion. It
-could remind him, for a moment, of this feeling about the glories of the
-universe.</p></blockquote>
-
-<p>Behind Feynman&#8217;s life is a desire to discover the world and bottle it within
-his mind. It appears that the book isn&#8217;t just intended as a way to store his
-memories. Instead, he closes the novel with a speech he wrote encouraging
-students to find environments in which their curiosity can flourish.</p>
 ]]></content>
   </entry>
   
